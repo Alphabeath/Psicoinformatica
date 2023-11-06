@@ -1,53 +1,16 @@
-<h1 align=center>About InCA-WhatIsMore</h1>
+<h1 align=center>About Empathy and Power Relationship</h1>
 
-A simple web solution to compare the ability of animals (humans and non humans) trained in using touch interfaces to compare discrete (e.g. dice, heap of dots) and continuous (e.g. disc, rectangle) quantities with distinct color settings and an automatic log (even in context difficult for humans, such as low contrasts).
+A simple web application that measures the level of empathy and emotion recognition based on the level of power a person has.
 
-<h2>Known bugs</h2>
-<ul>
-	<li> drawings are not well centered</li>
-	<li> play page can still be scrolled</li>
-	<li> HTML input in VisualFeedback is not sanitized!
-	(e.g. using https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API) </li>
-</ul>
-
-<h2>Pending Features</h2>
-<ul>
-	<li>Add separate parameters for visual display for exercises and games </li>
-	<li>Record and configure separate audio feedback for exercises and games</li>
-  <li>Display mode random dots
-  <li>Display mode random dots with gravity
-  <li> server side log 
-	<li> client side automatic statistical analysis of the game log at the end of each log.</li>	
-	<li> server side automatic statistical analysis of log per learner </li>
-	<li> add option to upload (to the server?) personalized sounds for audio feedback.</li>
-  <li> Random game modes: At each new GAME, draw a<ul>
-   <li> random display mode, and/or
-   <li> random colors and/or
-   <li> random opacity 
-	 </ul>
-<li> Add statistic distance to results obtained from uniform random choices
-<li> Add statistic distance to results obtained from always selecting the same
-<li> min/max/median/Average Response time
-<li> Add parameter to control the space between quantities in each exercise
-<li> high scores table
-<li> make surface of rect and disc vary linearly with n (rather than quadratically)
-</ul>
-
-<h3>
-	Recently added features
-</h3>
-<ul>	
-<li> Cleaned up code before sharing it with Psycho Informatics Students
-</li>
-</ul>
 
 <h2>How to use it?</h2>
 <ul>
-	<li><i>Teacher</i> selects parameters of the game in the menu <i>Configuration</i>;</li>
-	<li><i>Teacher</i> selects <i>Play</i> and presents the device to the <i>learner</i>, in a position where the <i>teacher</i> cannot see the screen, to insure they cannot hint the correct answers to the <i>learner</i>;
-	<li><i>Learner</i> selects one of the quantities described;</li>
-	<li><i>Teacher</i> rewards <i>Learner</i> if appropriate while the application readies the next challenge.</li>
+	<li><i>Examiner</i> selects parameters of the game in the menu <i>Configuration</i>;</li>
+	<li><i>Examiner</i> selects the mode story <i>Power situation </i> or <i>Vulnerability situation</i> and presents the device to the <i>learner</i>, in a position where the <i>Examiner</i> cannot see the screen, to insure they cannot hint the correct answers to the <i>learner</i>;
+	<li><i>Learner</i> selects one of the four emotions present</li>
+	<li><i>Learner</i> must choose how intense that emotion is on a Flicker scale</li>
 </ul>
+
 <h2>
 	Privacy issues
 </h2>
@@ -56,14 +19,17 @@ A simple web solution to compare the ability of animals (humans and non humans) 
 
 <h2>Related pages</h2>
 
-Checkout the <a href='http://whatismore.incalab.cl'>frontend</a> used in the experiments described in the related
-<a href="https://dl.acm.org/doi/10.1145/3565995.3566040">article</a>,
-and the <a href='https://gitlab.com/incalab/inca-bct'>sources</a> on github.<br>	
+<ul>
+	<li>First paper <a href="https://pubmed.ncbi.nlm.nih.gov/19121143/">Power, distress, and compassion: turning a blind eye to the suffering of others</a>
+	</li>
+	<li>Second paper <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.201305">Reading the mind in the Eyes</a>
+	</li>
+</ul>
 
 <h2>Credits/Acknowledgments</h2>
-	The InCA-WhatIsMore project is a collaboration between<ul>		
-<li>	<a href="https://barbay.cl">Jérémy Barbay</a> from <a href="https://inca.dcc.uchile.cl">InCA Labs</a> and <br>
-<li>  <a href="https://joachim.barbay.cl">Joachim Barbay</a> from <a href="https://jobbyworld.cl">Jobby World</a>.
+	The Empathy and Power Relationship project is a collaboration between<ul>		
+<li>	<a href="https://barbay.cl">Jeremy Barbay</a> from <a href="https://inca.dcc.uchile.cl">InCA Labs</a> 
+
 </ul>
 
 		

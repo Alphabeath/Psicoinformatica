@@ -122,7 +122,7 @@ function select(c){
 	}
 </script>
 
-<h1 align="center">What's more?</h1>
+<h1 align="center">What's the emotion?</h1>
 
 {#if !selected}
 <div style="--nbChoices: {params.nbChoices}">
@@ -184,7 +184,7 @@ function select(c){
 	*/
 	/* peut etre a creuser :
 	https://developer.mozilla.org/fr/docs/Web/CSS/justify-content
-	mais si on souhaiter calculer les espaces il faudrait impérativement connaitre la "largeur" de quantity 
+	mais si on souhaiter calculer les espaces il faudrait impï¿½rativement connaitre la "largeur" de quantity 
 	*/
 	
 	/*

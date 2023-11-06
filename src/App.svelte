@@ -7,6 +7,8 @@
 	import Game from "./game.svelte";
 	import Config from "./config.svelte";
 	import Info from "./info.svelte";	
+	import Story from "./story.svelte";
+	import Test from "./test.svelte";
 	// External Variables
 	export let page = "menu";
 	export let log ={ 
@@ -23,7 +25,7 @@
 		noMoreBotton : false,
 		noMoreSoundURL : "", 
 		mode : 'dice',
-	  randomMode: false,
+	  	randomMode: false,
 		randomModes: false,		modes : ["dice","heap"],
 		randomColors:false, colors : ["black","red","blue"],
 		randomOpacity:false, opacities : [.2,.3,.5,.7,.9],
@@ -39,7 +41,7 @@
 		correctSoundURL : "https://buho.dcc.uchile.cl/~inca-bat/sounds/correct.mp3",
 		incorrectSoundURL : "https://buho.dcc.uchile.cl/~inca-bat/sounds/incorrect.mp3",
 		gameFeatures : true,
-    gameLength : 5,
+   	 	gameLength : 5,
 		gameThresholds : {pass:.5, excel:.9},
 		gameSoundsURLs: {fail: "https://buho.dcc.uchile.cl/~inca-bat/sounds/tryagain.mp3", 
 										 pass: "https://buho.dcc.uchile.cl/~inca-bat/sounds/welldone.mp3", 
@@ -52,7 +54,13 @@
 		server : "https://buho.dcc.uchile.cl/~inca-bct/log.php",
 		activeServer: false,
 		learner: "unnamed",
-		teacher: "unnamed"
+		teacher: "unnamed",
+		historia: 1,
+		correctAnswer:  ["jugueton", "trastorno", "deseoso", "insitencia", "preocupacion"],
+		AnswerEyes: [
+		["jugueton", "reconfortante", "irritado", "aburrido"], 
+		["aterrado", "disgustado", "arrogante", "molesto"], 
+		["deseoso", "nervioso", "bromista", "convencido"]]
 	}
 </script>
 
@@ -74,6 +82,8 @@
 {#if page == "config"} <Config bind:params bind:log></Config>
 {:else if page == "game"} <Game bind:params bind:log></Game>
 {:else if page == "info"} <Info></Info>
+{:else if page == "story"} <Story bind:params bind:page></Story>
+{:else if page == "test"} <Test bind:params bind:page></Test>
 {:else} <Home bind:params bind:page></Home>
 {/if}
 

@@ -8,16 +8,10 @@ export let width = 160;
 export let height = 160;
 let radius = (width/2-10)*n /9;
 </script>
-<svg width={width} height={height}>
-  <rect x="5" y="5" rx="20" ry="20" width={width-10} height={height-10} fill={base_color_face} fill-opacity={bg_opacity}/>
-	<circle cx="75" cy="75" r={radius} fill={base_color_dot} />		
-</svg>
+     <text x=25 y=130 class="heavy" style="fill: {"black"}; font-size: 35px; user-select:none">{"Nueve"}</text>
 <style>
 	rect{
    stroke:black;
    stroke-width:5;
 	}
-	circle{
-   stroke:none;
-   stroke-width:0;
 </style>

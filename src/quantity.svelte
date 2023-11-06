@@ -3,6 +3,7 @@ import Dice from "./dice.svelte";
 import Heap from "./heap.svelte";
 import Disc from "./disc.svelte";
 import Rect from "./rect.svelte";
+import Eye from "./eyes.svelte";
 export let n = 5;
 export let bg="white";
 export let fg="black";
@@ -39,5 +40,7 @@ export let mode = "dice"
 													width = {width}
 													height= {height}
 													></Rect>
+{:else if mode == "eye"}<Eye n={n}>
+</Eye>
 {:else} {n}
 {/if}
