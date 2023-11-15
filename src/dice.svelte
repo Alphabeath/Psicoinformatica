@@ -1,4 +1,3 @@
-<!-- Draws a dice face with values from 0 to 9 -->
 <script>
 export let n = 5;
 export let base_color_face="white";
