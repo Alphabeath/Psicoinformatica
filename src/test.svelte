@@ -48,7 +48,8 @@
       if (selected == params.AnswerEyes[n - 1][0]) {
         correctitud = "Correcto";
       }
-      enterInCSVLog(log.test_number + ", " + params.mode + ", " + params.learner + ", " + params.teacher + ", " + selected + ", "+ correctitud +", " + params.AnswerEyes[n - 1][0] + ", " + params.AnswerEyes[n - 1][1] + ", " + params.AnswerEyes[n - 1][2] + ", " + params.AnswerEyes[n - 1][3] + ", " + dateInOrgmodeFormat() + ", " + response_time);
+      let intesity = string;
+      enterInCSVLog(log.test_number + ", " + params.mode + ", " + params.learner + ", " + params.teacher + ", " + selected + ","+ intesity +", "+ correctitud +", " + params.AnswerEyes[n - 1][0] + ", " + params.AnswerEyes[n - 1][1] + ", " + params.AnswerEyes[n - 1][2] + ", " + params.AnswerEyes[n - 1][3] + ", " + dateInOrgmodeFormat() + ", " + response_time);
       count++;
       index = (index + 1) % numbers.length;
       n = numbers[index];
@@ -95,13 +96,13 @@
         </p>
         <p style="text-align: center;">Donde 1 es muy baja y 7 es muy alta</p>
         <div class="buttons">
-          <button on:click={reset}>1</button>
-          <button on:click={reset}>2</button>
-          <button on:click={reset}>3</button>
-          <button on:click={reset}>4</button>
-          <button on:click={reset}>5</button>
-          <button on:click={reset}>6</button>
-          <button on:click={reset}>7</button>
+          <button on:click={(e) => {e.stopPropagation(); reset("1");}}>1</button>
+          <button on:click={(e) => {e.stopPropagation(); reset("2");}}>2</button>
+          <button on:click={(e) => {e.stopPropagation(); reset("3");}}>3</button>
+          <button on:click={(e) => {e.stopPropagation(); reset("4");}}>4</button>
+          <button on:click={(e) => {e.stopPropagation(); reset("5");}}>5</button>
+          <button on:click={(e) => {e.stopPropagation(); reset("6");}}>6</button>
+          <button on:click={(e) => {e.stopPropagation(); reset("7");}}>7</button>
         </div>
       </div>
     {/if}

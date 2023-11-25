@@ -20,7 +20,7 @@
 		test_number: 0,
 		time_last_display: 0,
 		text_diary: ["# Date Time (...) "],
-		csv_diary: ["Test no, Test Name, Learner, Trainer, Selected, Correctness, C1, C2, C3, C4, Date, Answering Time (ms)"],
+		csv_diary: ["Test no, Test Name, Learner, Trainer, Selected, Correctness, Intensity,C1, C2, C3, C4, Date, Answering Time (ms)"],
 		text: new Blob(["# No test was executed before saving this text log. "], {type: 'text/plain'}),
 		csv: new Blob(["# No test was executed before saving this csv log. "], {type: 'text/csv'})
 	}
