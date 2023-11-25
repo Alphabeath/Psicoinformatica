@@ -1,52 +1,91 @@
 <script>
-    export let params;
-    export let page = "story";
+  export let params;
+  export let page = "story";
 </script>
 
 <main>
-    <div class="container">
-        <h1>Historia </h1>
-        {#if params.historia === 1}
-    <h2>Situacion Trabajador</h2>
-        <p>Imagina que eres un empleado dedicado en tu primera semana en un nuevo trabajo. <br>
-            Te sientes vulnerable y ansioso mientras esperas tu primera reunion con tu nuevo supervisor. <br>
-            Te citaron a su oficina y, al entrar, te encuentras frente a su escritorio, con una silla de espaldas a la puerta. <br>
-            Los nervios te invaden mientras te sientas, temiendo lo que el supervisor pueda decir sobre tu desempeno en tu primer trabajo en la empresa. <br> 
-            Las palabras del supervisor, aunque bien intencionadas, hacen que te sientas aun mas vulnerable y ansioso. <br>
-            Te esfuerzas por mantener la compostura y asimilar sus comentarios con dignidad. <br>
-        </p>
-    {:else}
-    <h2>Situacion Supervisor</h2>
-    <p>Imagina que eres un nuevo supervisor, te sientes completamente seguro y empoderado durante la reunion con tu nuevo empleado. <br>
-        Has preparado cuidadosamente la evaluacion de su desempeno y estas listo para guiar la conversacion. <br>
-        Te sientas detras de su escritorio con la espalda erguida y una expresion de seguridad en tu rostro. <br>
-        Sabes que tiene el control de la situacion. Cada comentario que haces al trabajador esta respaldado por datos concretos, y manejas la reunion con autoridad. <br> 
-        Reflejas confianza en su lenguaje corporal y su capacidad para brindar criticas constructivas de manera firme pero respetuosa, demostrando que esta en una posicion de poder.
-    </p>
-    
-    {/if}
-    </div>
-    
-    
-    
-    <div class="container">
+  <div class="container">
+    <h1>Historia</h1>
+    {#if params.historia === 1}
+      <h2>Situacion Entrevistado</h2>
+      <p class="centered-paragraph">
+        Me encontraba en la sala de espera, con mi currículum en mano y nervios
+        revoloteando en mi estómago. El tiempo parecía detenerse mientras
+        aguardaba mi turno. La puerta se abrió y fui invitado a entrar. Me
+        encontré frente a un entrevistador, sentado en su imponente silla,
+        mientras yo ocupaba un asiento más bajo, lo que intensificaba la
+        sensación de incertidumbre. "Cuéntame un poco sobre ti", comenzó él, y
+        cada palabra que salía de mi boca parecía sometida a su escrutinio. Sus
+        ojos analizaban cada gesto mío, y su tono firme dejaba claro quién tenía
+        el control. Me esforzaba por transmitir confianza, pero mi
+        vulnerabilidad estaba a flor de piel. Al final, el apretón de manos fue
+        firme, pero no pude evitar sentir la brecha de poder que separaba
+        nuestras posiciones. Salí de la habitación con la incertidumbre
+        carcomiéndome, consciente de que mi destino laboral estaba en manos de
+        alguien que había jugado con mis emociones y mi vulnerabilidad.
+      </p>
+      <!-- <audio src="/Entrevistado.mp3" autoplay></audio> -->
+      <div class="container">
         <h2>Realizar test</h2>
-    <button on:click={()=>{params.mode="eye"; page="test"}}> Comenzar test </button>
-    </div>
-    
-    
+        <button
+          on:click={() => {
+            params.mode = "vulnerabilidad";
+            page = "test";
+          }}
+        >
+          Comenzar test
+        </button>
+      </div>
+    {:else}
+      <h2>Situacion Entrevistador</h2>
+      <p>
+        Como entrevistador, me encontré sentado en mi imponente silla de cuero
+        en la esquina de la sala de conferencias. La mesa de roble separaba mi
+        presencia de la persona que aguardaba al otro lado. Observé cada gesto,
+        en el rostro del entrevistado mientras esperaba su turno. "Por favor,
+        siéntese", dije con una sonrisa sutil pero amigable, aunque manteniendo
+        mi tono firme. La idea era establecer la jerarquía desde el principio.
+        La tensión en el aire se volvía palpable mientras él se sentaba. Durante
+        la entrevista, formulé preguntas estratégicas para desentrañar sus
+        experiencias pasadas y observar sus reacciones. Cada palabra pronunciada
+        llevaba consigo el peso de mi evaluación. La dinámica era clara: yo
+        dictaba el destino de su carrera, y él luchaba por causar una impresión
+        favorable. Al final, le ofrecí una sonrisa cálida y un apretón de manos
+        firme. "Nos pondremos en contacto pronto"
+      </p>
+      <audio src="/Entrevistador.mp3" autoplay></audio>
+      <div class="container">
+        <h2>Realizar test</h2>
+        <button
+          on:click={() => {
+            params.mode = "poder";
+            page = "test";
+          }}
+        >
+          Comenzar test
+        </button>
+      </div>
+    {/if}
+  </div>
 
+  
 </main>
 
 <style>
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .container button{
-        background-color: green;
-        color: white;
-        border-radius: 0.5em;
-    }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container button {
+    background-color: green;
+    color: white;
+    border-radius: 0.5em;
+  }
+
+  .container p {
+    max-width: 800px; /* Ajusta este valor a lo que necesites */
+    text-align: justify;
+    margin: 0 auto;
+  }
 </style>

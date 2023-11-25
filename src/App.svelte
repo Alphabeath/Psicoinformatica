@@ -9,13 +9,18 @@
 	import Info from "./info.svelte";	
 	import Story from "./story.svelte";
 	import Test from "./test.svelte";
+	import { onMount } from 'svelte';
+  	import * as d3 from 'd3';
+	  let data = [];
+
+	
 	// External Variables
 	export let page = "menu";
 	export let log ={ 
 		test_number: 0,
 		time_last_display: 0,
 		text_diary: ["# Date Time (...) "],
-		csv_diary: ["Test no, Test Name, Learner, Trainer, C_0, C_1, C_2, C_3, C_4, Value selected , Correction , Date, Answering Time (ms), Other Parameters"],
+		csv_diary: ["Test no, Test Name, Learner, Trainer, Selected, Correctness, C1, C2, C3, C4, Date, Answering Time (ms)"],
 		text: new Blob(["# No test was executed before saving this text log. "], {type: 'text/plain'}),
 		csv: new Blob(["# No test was executed before saving this csv log. "], {type: 'text/csv'})
 	}
@@ -46,12 +51,19 @@
 		learner: "unnamed",
 		teacher: "unnamed",
 		historia: 1,
-		correctAnswer:  ["jugueton", "trastorno", "deseoso", "insitencia", "preocupacion"],
-		AnswerEyes: [
-		["jugueton", "reconfortante", "irritado", "aburrido"], 
-		["aterrado", "disgustado", "arrogante", "molesto"], 
-		["deseoso", "nervioso", "bromista", "convencido"]]
+		AnswerEyes: []
 	}
+
+	onMount(async () => {
+    try {
+      const csvData = await d3.csv('/respuestas.csv');
+      params.AnswerEyes = csvData.map(row => Object.values(row).slice(1));
+	  console.log(params.AnswerEyes);
+    } catch (error) {
+      console.error("Error al leer el archivo CSV: ", error);
+    }
+  });
+
 </script>
 
 <svelte:head>
@@ -73,7 +85,7 @@
 {:else if page == "game"} <Game bind:params bind:log></Game>
 {:else if page == "info"} <Info></Info>
 {:else if page == "story"} <Story bind:params bind:page></Story>
-{:else if page == "test"} <Test bind:params bind:page></Test>
+{:else if page == "test"} <Test bind:params bind:log bind:page></Test>
 {:else} <Home bind:params bind:page></Home>
 {/if}
 

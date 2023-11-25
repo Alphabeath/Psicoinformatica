@@ -35,7 +35,7 @@ function enterInCSVLog(string) {
    	log.csv_diary = [...log.csv_diary,"\n"+string];
    	log.csv = new Blob(log.csv_diary, {type: 'text/csv'});
 }
-function select(c){		
+function select(c){
 	log.test_number ++;
 	if(selected == false) {
 		selected = true;
