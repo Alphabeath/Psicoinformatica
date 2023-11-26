@@ -1,6 +1,4 @@
 <script>
-  import Quantity from "./quantity.svelte";
-	import {enterInLocalLog} from "./log.js";
 	import {dateInOrgmodeFormat} from "./log.js";	
 	// Parameters	
   export let log={}

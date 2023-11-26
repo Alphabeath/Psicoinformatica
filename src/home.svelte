@@ -1,6 +1,4 @@
 <script>
-  import Quantity from "./quantity.svelte";
-  import Story from "./story.svelte";
   export let page = "home";
   export let params = {};
   let isOpen = true;

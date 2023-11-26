@@ -175,27 +175,5 @@ function select(c){
   cursor: pointer;
   font-weight: bold;
 }
-	/*
-	table{width:100%}
-	td {
-  text-align: center;
-		border:1px solid black;
-	}
-	*/
-	/* peut etre a creuser :
-	https://developer.mozilla.org/fr/docs/Web/CSS/justify-content
-	mais si on souhaiter calculer les espaces il faudrait imp�rativement connaitre la "largeur" de quantity 
-	*/
-	
-	/*
-	td {
-    padding-left: 100px;
-    padding-right: 0px;
-  }
-  td:first-child {
-    padding-left: 0;
-  }
-  td:last-child {
-    padding-right: 0;
-  }*/
+
 </style>
