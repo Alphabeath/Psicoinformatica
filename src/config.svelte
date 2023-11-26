@@ -25,7 +25,7 @@
 		console.log("Test Function");
 	}
 	function fileName() {
-		return dateInOrgmodeFormat()+"-InCA-BCT-"+params.learner+" trained by "+params.teacher;
+		return dateInOrgmodeFormat()+ " " + params.learner + " trained by " + params.teacher;
 	}
 	function switchOffRedraw() {
     redraw = false;

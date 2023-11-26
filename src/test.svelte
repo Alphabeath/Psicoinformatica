@@ -44,7 +44,7 @@
         correctitud = "Correcto";
       }
       let intesity = string;
-      enterInCSVLog(log.test_number + ", " + params.mode + ", " + params.learner + ", " + params.teacher + ","+ n +", " + selected + ","+ intesity +", "+ correctitud +", " + params.AnswerEyes[n - 1][0] + ", " + params.AnswerEyes[n - 1][1] + ", " + params.AnswerEyes[n - 1][2] + ", " + params.AnswerEyes[n - 1][3] + ", " + dateInOrgmodeFormat() + ", " + response_time);
+      enterInCSVLog(log.test_number + ", " + params.mode + ", " + params.learner + ", " + params.teacher + ", " + n + ", " + selected + ", " + correctitud + ", " + intesity + ", " + params.AnswerEyes[n - 1][0] + ", " + params.AnswerEyes[n - 1][1] + ", " + params.AnswerEyes[n - 1][2] + ", " + params.AnswerEyes[n - 1][3] + ", " + dateInOrgmodeFormat() + ", " + response_time);
       count++;
       index = (index + 1) % numbers.length;
       n = numbers[index];

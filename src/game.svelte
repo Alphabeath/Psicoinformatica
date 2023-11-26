@@ -62,7 +62,7 @@ function select(c){
   		var choices_complementary = ""
 			}
    //	csv_diary: ["Test no, Test Name, Learner, Trainer, C_0, C_1, C_2, C_3, C_4, Clicked , Correction , Date, Answering Time, Other Parameters"],
-		enterInCSVLog(log.test_number+", "+params.mode+", "+params.learner+", "+params.teacher+", "+choices+choices_complementary+", "+c+","+correct+", "+dateInOrgmodeFormat()+", "+response_time+", background "+params.bg+", foreground "+params.fg+", bg opacity "+params.bg_opacity+", Value Set ["+params.values.sort()+"]");
+		enterInCSVLog(log.test_number + ", " + params.mode + ", " + params.learner + ", " + params.teacher + ", " + choices + choices_complementary + ", " + c + ", " + correct + ", " + dateInOrgmodeFormat() + ", " + response_time + ", background " + params.bg + ", foreground " + params.fg + ", bg opacity "+params.bg_opacity+", Value Set ["+params.values.sort()+"]");
 		if(correct == true) {
 				nbCorrect++;
 		    if(params.visualFeedback){exerciseResult=params.visualFeedbackCorrect}
