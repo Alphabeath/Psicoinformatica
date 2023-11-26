@@ -15,11 +15,6 @@
   let indices = [0, 1, 2, 3];
   let selected = "";
 
-  $: {
-    if (finished) {
-      page = "home";
-    }
-  }
 
   function enterInCSVLog(string) {
 	  console.log(string);
@@ -40,7 +35,7 @@
     console.log("Selected es " + selected);
   }
   function reset(string) {
-    if (count >= numbers.length - 1) {
+    if (count > numbers.length - 1) {
       finished = true;
     } else {
       var response_time = Date.now()-log.time_last_display;
@@ -49,12 +44,13 @@
         correctitud = "Correcto";
       }
       let intesity = string;
-      enterInCSVLog(log.test_number + ", " + params.mode + ", " + params.learner + ", " + params.teacher + ", " + selected + ","+ intesity +", "+ correctitud +", " + params.AnswerEyes[n - 1][0] + ", " + params.AnswerEyes[n - 1][1] + ", " + params.AnswerEyes[n - 1][2] + ", " + params.AnswerEyes[n - 1][3] + ", " + dateInOrgmodeFormat() + ", " + response_time);
+      enterInCSVLog(log.test_number + ", " + params.mode + ", " + params.learner + ", " + params.teacher + ","+ n +", " + selected + ","+ intesity +", "+ correctitud +", " + params.AnswerEyes[n - 1][0] + ", " + params.AnswerEyes[n - 1][1] + ", " + params.AnswerEyes[n - 1][2] + ", " + params.AnswerEyes[n - 1][3] + ", " + dateInOrgmodeFormat() + ", " + response_time);
       count++;
       index = (index + 1) % numbers.length;
       n = numbers[index];
       showFirstGroup = true;
       indices = shuffleArray(indices);
+
       selected = "";
       log.time_last_display = Date.now();
     }
@@ -78,14 +74,14 @@
         <Eyes {n} />
       </div>
     </div>
-    {#if showFirstGroup}
+    {#if showFirstGroup && finished == false}
       <div class="row">
         <p style="text-align: center">¿Qué emoción/sentimiento tiene?</p>
         <div class="buttons">
-          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][0])}>{params.AnswerEyes[n - 1][0]}</button>
-          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][1])}>{params.AnswerEyes[n - 1][1]}</button>
-          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][2])}>{params.AnswerEyes[n - 1][2]}</button>
-          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][3])}>{params.AnswerEyes[n - 1][3]}</button>
+          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][indices[0]])}>{params.AnswerEyes[n - 1][indices[0]]}</button>
+          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][indices[1]])}>{params.AnswerEyes[n - 1][indices[1]]}</button>
+          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][indices[2]])}>{params.AnswerEyes[n - 1][indices[2]]}</button>
+          <button on:click={() => switchGroup(params.AnswerEyes[n - 1][indices[3]])}>{params.AnswerEyes[n - 1][indices[3]]}</button>
       </div>
       </div>
     {:else}
