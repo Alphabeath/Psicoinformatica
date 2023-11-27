@@ -35,6 +35,7 @@
     console.log("Selected es " + selected);
   }
   function reset(string) {
+    log.test_number ++;
     if (count > numbers.length - 1) {
       finished = true;
     } else {
