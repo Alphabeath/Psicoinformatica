@@ -1,0 +1,73 @@
+Test no, Test Name, Learner, Trainer,Num Eye, Selected, Correctness, Intensity,C1, C2, C3, C4, Date, Answering Time (ms), Sexo
+1, poder, Fernanda Cartes, Vanessa Suazo,3, Convencida, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 00:24(29.928)],23566, Mujer
+2, poder, Fernanda Cartes, Vanessa Suazo,20, Amistoso, Correcto,4, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 00:24(44.915)],14982, Mujer
+3, poder, Fernanda Cartes, Vanessa Suazo,12, Escéptico, Correcto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 00:24(53.121)],8200, Mujer
+4, poder, Fernanda Cartes, Vanessa Suazo,1, Aburrido, Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 00:25(07.141)],14016, Mujer
+5, poder, Fernanda Cartes, Vanessa Suazo,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 00:25(14.544)],7401, Mujer
+6, poder, Fernanda Cartes, Vanessa Suazo,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 00:25(29.380)],14832, Mujer
+7, poder, Fernanda Cartes, Vanessa Suazo,7, Inquieto, Correcto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 00:25(53.442)],24060, Mujer
+8, poder, Fernanda Cartes, Vanessa Suazo,29, Impaciente , Incorrecto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 00:26(05.514)],12070, Mujer
+9, poder, Fernanda Cartes, Vanessa Suazo,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 00:26(11.908)],6390, Mujer
+10, poder, Fernanda Cartes, Vanessa Suazo,9, Molesto , Incorrecto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 00:26(39.155)],27244, Mujer
+11, poder, Fernanda Cartes, Vanessa Suazo,22, Preocupado , Correcto,5, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 00:26(49.104)],9945, Mujer
+12, poder, Fernanda Cartes, Vanessa Suazo,34, Desconfiado, Correcto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 00:26(55.679)],6572, Mujer
+13, poder, Fernanda Cartes, Vanessa Suazo,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 00:27(05.480)],9799, Mujer
+14, poder, Fernanda Cartes, Vanessa Suazo,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 00:27(16.427)],10944, Mujer
+15, poder, Fernanda Cartes, Vanessa Suazo,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 00:27(25.399)],8970, Mujer
+16, poder, Fernanda Cartes, Vanessa Suazo,6, Impaciente, Incorrecto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 00:27(37.561)],12159, Mujer
+17, poder, Fernanda Cartes, Vanessa Suazo,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 00:27(44.79)],6514, Mujer
+18, poder, Fernanda Cartes, Vanessa Suazo,16, Comprensivo, Incorrecto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 00:27(51.368)],7286, Mujer
+19, poder, Fernanda Cartes, Vanessa Suazo,27, Cauteloso, Correcto,4, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 00:28(12.39)],20668, Mujer
+20, poder, Fernanda Cartes, Vanessa Suazo,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 00:28(26.55)],14013, Mujer
+21, poder, Fernanda Cartes, Vanessa Suazo,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 00:28(30.949)],4888, Mujer
+22, poder, Fernanda Cartes, Vanessa Suazo,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 00:28(55.619)],24668, Mujer
+23, poder, Fernanda Cartes, Vanessa Suazo,25, Incrédulo, Incorrecto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 00:29(00.823)],5201, Mujer
+24, poder, Fernanda Cartes, Vanessa Suazo,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 00:29(05.886)],5059, Mujer
+25, poder, Fernanda Cartes, Vanessa Suazo,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 00:29(40.843)],34954, Mujer
+26, poder, Fernanda Cartes, Vanessa Suazo,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 00:29(48.466)],7621, Mujer
+27, poder, Fernanda Cartes, Vanessa Suazo,35, Insistente, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 00:29(55.925)],7457, Mujer
+28, poder, Fernanda Cartes, Vanessa Suazo,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 00:30(01.592)],5663, Mujer
+29, poder, Fernanda Cartes, Vanessa Suazo,19, Sarcástico, Incorrecto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 00:30(13.49)],11454, Mujer
+30, poder, Fernanda Cartes, Vanessa Suazo,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 00:30(23.326)],10275, Mujer
+31, poder, Fernanda Cartes, Vanessa Suazo,32, serio, Correcto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 00:30(29.554)],6224, Mujer
+32, poder, Fernanda Cartes, Vanessa Suazo,5, Preocupado , Correcto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 00:30(39.517)],9961, Mujer
+33, poder, Fernanda Cartes, Vanessa Suazo,2, Aterrorizado, Incorrecto,3, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 00:30(44.503)],4980, Mujer
+34, poder, Fernanda Cartes, Vanessa Suazo,11, Arrepentido, Correcto,5, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 00:30(50.694)],6187, Mujer
+35, poder, Fernanda Cartes, Vanessa Suazo,8, Abatido, Correcto,3, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 00:30(58.718)],8021, Mujer
+36, poder, Fernanda Cartes, Vanessa Suazo,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 00:31(05.7)],6284, Mujer
+38, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,11, Aterrorizado, Incorrecto,2, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 00:32(31.279)],14704, Mujer
+39, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,9,  Hostil, Incorrecto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 00:32(42.220)],10937, Mujer
+40, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 00:32(50.17)],7792, Mujer
+41, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 00:32(57.823)],7803, Mujer
+42, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 00:33(06.188)],8359, Mujer
+43, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,3, Convencida, Incorrecto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 00:33(14.737)],8545, Mujer
+44, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,34, Desconfiado, Correcto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 00:33(26.787)],12047, Mujer
+45, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 00:33(33.980)],7189, Mujer
+46, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,27, Cauteloso, Correcto,4, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 00:33(41.438)],7455, Mujer
+47, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,1, Aburrido, Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 00:33(47.634)],6193, Mujer
+48, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,18, Decido, Correcto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 00:33(52.80)],4444, Mujer
+49, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 00:33(57.746)],5662, Mujer
+50, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 00:34(02.907)],5155, Mujer
+51, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 00:34(13.572)],10662, Mujer
+52, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,15, Contemplativo, Correcto,7, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 00:34(18.117)],4541, Mujer
+53, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 00:34(26.626)],8507, Mujer
+54, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,25, Incrédulo, Incorrecto,4, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 00:34(36.647)],10017, Mujer
+55, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,35, Insistente, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 00:34(42.719)],6069, Mujer
+56, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,29, Impaciente , Incorrecto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 00:34(58.466)],15745, Mujer
+57, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,5, Preocupado , Correcto,4, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 00:35(05.315)],6845, Mujer
+58, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,8, Abatido, Correcto,4, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 00:35(11.608)],6289, Mujer
+59, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 00:35(19.235)],7624, Mujer
+60, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 00:35(26.81)],6842, Mujer
+61, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,21, Fantaseando, Correcto,4, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 00:35(40.173)],14087, Mujer
+62, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 00:35(44.184)],4008, Mujer
+63, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 00:35(50.708)],6519, Mujer
+64, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,19, Arrogante, Incorrecto,4, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 00:35(58.496)],7785, Mujer
+65, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 00:36(02.679)],4180, Mujer
+66, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 00:36(10.656)],7973, Mujer
+67, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 00:36(22.157)],11498, Mujer
+68, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,7, Inquieto, Correcto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 00:36(37.107)],14945, Mujer
+69, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,24, Pensativo , Correcto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 00:36(43.999)],6885, Mujer
+70, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 00:36(52.331)],8326, Mujer
+71, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,22, Insistente, Incorrecto,5, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 00:36(59.847)],7512, Mujer
+72, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 00:37(10.3)],10152, Mujer
+73, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 00:37(15.452)],5443, Mujer

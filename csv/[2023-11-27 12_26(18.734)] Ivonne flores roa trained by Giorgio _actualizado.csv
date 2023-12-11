@@ -1,0 +1,37 @@
+Test no, Test Name, Learner, Trainer,Num Eye, Selected, Correctness, Intensity,C1, C2, C3, C4, Date, Answering Time (ms), Sexo
+1, poder, Ivonne flores roa, Giorgio ,34, Desconcertado, Incorrecto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 12:19(32.456)],25698, Mujer
+2, poder, Ivonne flores roa, Giorgio ,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 12:20(10.81)],37625, Mujer
+3, poder, Ivonne flores roa, Giorgio ,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 12:20(29.882)],19799, Mujer
+4, poder, Ivonne flores roa, Giorgio ,4, Relajado, Incorrecto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 12:20(47.264)],17380, Mujer
+5, poder, Ivonne flores roa, Giorgio ,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 12:20(58.777)],11512, Mujer
+6, poder, Ivonne flores roa, Giorgio ,22, Insistente, Incorrecto,4, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 12:21(39.584)],40806, Mujer
+7, poder, Ivonne flores roa, Giorgio ,35, Nervioso, Correcto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 12:21(46.388)],6804, Mujer
+8, poder, Ivonne flores roa, Giorgio ,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 12:21(53.262)],6873, Mujer
+9, poder, Ivonne flores roa, Giorgio ,2, Irritado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 12:22(17.772)],24510, Mujer
+10, poder, Ivonne flores roa, Giorgio ,1, Juguetón, Correcto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 12:22(57.867)],40095, Mujer
+11, poder, Ivonne flores roa, Giorgio ,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 12:23(04.62)],6194, Mujer
+12, poder, Ivonne flores roa, Giorgio ,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 12:23(18.869)],14806, Mujer
+13, poder, Ivonne flores roa, Giorgio ,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 12:23(53.607)],34737, Mujer
+14, poder, Ivonne flores roa, Giorgio ,31, Bromista, Incorrecto,1, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 12:24(05.501)],11893, Mujer
+15, poder, Ivonne flores roa, Giorgio ,21, Aterrado, Incorrecto,1, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 12:24(10.625)],5123, Mujer
+16, poder, Ivonne flores roa, Giorgio ,30, Coqueto, Correcto,6, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 12:24(14.307)],3681, Mujer
+17, poder, Ivonne flores roa, Giorgio ,20, Culpable, Incorrecto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 12:24(20.531)],6224, Mujer
+18, poder, Ivonne flores roa, Giorgio ,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 12:24(47.481)],26949, Mujer
+19, poder, Ivonne flores roa, Giorgio ,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 12:24(49.505)],2023, Mujer
+20, poder, Ivonne flores roa, Giorgio ,5, Amistoso, Incorrecto,2, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 12:24(51.456)],1950, Mujer
+21, poder, Ivonne flores roa, Giorgio ,7, Amistoso, Incorrecto,7, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 12:24(54.944)],3487, Mujer
+22, poder, Ivonne flores roa, Giorgio ,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 12:25(06.777)],11833, Mujer
+23, poder, Ivonne flores roa, Giorgio ,29, Irritado, Incorrecto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 12:25(11.703)],4926, Mujer
+24, poder, Ivonne flores roa, Giorgio ,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 12:25(18.111)],6407, Mujer
+25, poder, Ivonne flores roa, Giorgio ,27, Arrogante, Incorrecto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 12:25(22.278)],4166, Mujer
+26, poder, Ivonne flores roa, Giorgio ,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 12:25(25.803)],3524, Mujer
+27, poder, Ivonne flores roa, Giorgio ,19, Agradecido, Incorrecto,7, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 12:25(29.85)],3281, Mujer
+28, poder, Ivonne flores roa, Giorgio ,23, Curioso, Incorrecto,4, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 12:25(35.335)],6249, Mujer
+29, poder, Ivonne flores roa, Giorgio ,28, Cariñoso, Incorrecto,4, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 12:25(37.254)],1918, Mujer
+30, poder, Ivonne flores roa, Giorgio ,32, Avergonzado, Incorrecto,4, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 12:25(38.627)],1372, Mujer
+31, poder, Ivonne flores roa, Giorgio ,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 12:25(39.757)],1130, Mujer
+32, poder, Ivonne flores roa, Giorgio ,9,  Hostil, Incorrecto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 12:25(40.705)],948, Mujer
+33, poder, Ivonne flores roa, Giorgio ,15, Desconcertado, Incorrecto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 12:25(41.639)],933, Mujer
+34, poder, Ivonne flores roa, Giorgio ,13, Tímido, Incorrecto,3, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 12:25(44.702)],3062, Mujer
+35, poder, Ivonne flores roa, Giorgio ,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 12:25(56.407)],11704, Mujer
+36, poder, Ivonne flores roa, Giorgio ,16, Irritado  , Incorrecto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 12:26(00.676)],4269, Mujer

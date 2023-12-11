@@ -1,0 +1,37 @@
+Test no, Test Name, Learner, Trainer,Num Eye, Selected, Correctness, Intensity,C1, C2, C3, C4, Date, Answering Time (ms), Sexo
+1, vulnerabilidad, Ruben, Giorgio,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-10 21:47(48.625)],17575, Hombre
+2, vulnerabilidad, Ruben, Giorgio,8, Emocionado, Incorrecto,4, Abatido, Aliviado, Tímido, Emocionado, [2023-12-10 21:47(55.785)],7159, Hombre
+3, vulnerabilidad, Ruben, Giorgio,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-10 21:48(05.657)],9870, Hombre
+4, vulnerabilidad, Ruben, Giorgio,7, Amistoso, Incorrecto,5, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-10 21:48(12.913)],7255, Hombre
+5, vulnerabilidad, Ruben, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-10 21:48(19.961)],7048, Hombre
+6, vulnerabilidad, Ruben, Giorgio,12, Escéptico, Correcto,5, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-10 21:48(28.329)],8367, Hombre
+7, vulnerabilidad, Ruben, Giorgio,13, Tímido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-12-10 21:48(37.615)],9283, Hombre
+8, vulnerabilidad, Ruben, Giorgio,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-10 21:48(48.578)],10961, Hombre
+9, vulnerabilidad, Ruben, Giorgio,34, Desconcertado, Incorrecto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-10 21:48(58.603)],10025, Hombre
+10, vulnerabilidad, Ruben, Giorgio,6, Impaciente, Incorrecto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-10 21:49(21.249)],22643, Hombre
+11, vulnerabilidad, Ruben, Giorgio,21, Fantaseando, Correcto,6, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-10 21:49(51.140)],29890, Hombre
+12, vulnerabilidad, Ruben, Giorgio,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-10 21:50(08.946)],17804, Hombre
+13, vulnerabilidad, Ruben, Giorgio,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-10 21:50(17.75)],8128, Hombre
+14, vulnerabilidad, Ruben, Giorgio,9, Preocupado , Correcto,6, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-10 21:50(26.762)],9687, Hombre
+15, vulnerabilidad, Ruben, Giorgio,5, Sarcástico, Incorrecto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-10 21:50(34.338)],7576, Hombre
+16, vulnerabilidad, Ruben, Giorgio,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-10 21:50(42.82)],7744, Hombre
+17, vulnerabilidad, Ruben, Giorgio,25, Incrédulo, Incorrecto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-10 21:50(51.882)],9800, Hombre
+18, vulnerabilidad, Ruben, Giorgio,35, Insistente, Incorrecto,4, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-10 21:51(18.370)],26488, Hombre
+19, vulnerabilidad, Ruben, Giorgio,11, Arrepentido, Correcto,7, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-10 21:51(25.906)],7536, Hombre
+20, vulnerabilidad, Ruben, Giorgio,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-12-10 21:51(39.794)],13888, Hombre
+21, vulnerabilidad, Ruben, Giorgio,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-10 21:51(45.115)],5321, Hombre
+22, vulnerabilidad, Ruben, Giorgio,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-10 21:51(53.634)],8519, Hombre
+23, vulnerabilidad, Ruben, Giorgio,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-12-10 21:51(57.330)],3696, Hombre
+24, vulnerabilidad, Ruben, Giorgio,15, Desconcertado, Incorrecto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-10 21:52(04.626)],7296, Hombre
+25, vulnerabilidad, Ruben, Giorgio,28, Cariñoso, Incorrecto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-10 21:52(09.362)],4736, Hombre
+26, vulnerabilidad, Ruben, Giorgio,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-10 21:52(19.154)],9791, Hombre
+27, vulnerabilidad, Ruben, Giorgio,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-10 21:52(24.266)],5112, Hombre
+28, vulnerabilidad, Ruben, Giorgio,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-10 21:52(27.882)],3616, Hombre
+29, vulnerabilidad, Ruben, Giorgio,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-12-10 21:52(34.769)],6887, Hombre
+30, vulnerabilidad, Ruben, Giorgio,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-10 21:52(53.130)],18360, Hombre
+31, vulnerabilidad, Ruben, Giorgio,27, Arrogante, Incorrecto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-10 21:53(00.906)],7776, Hombre
+32, vulnerabilidad, Ruben, Giorgio,19, Arrogante, Incorrecto,7, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-10 21:53(13.226)],12320, Hombre
+33, vulnerabilidad, Ruben, Giorgio,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-10 21:53(28.801)],15575, Hombre
+34, vulnerabilidad, Ruben, Giorgio,23, Desafiante, Correcto,7, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-10 21:53(47.25)],18224, Hombre
+35, vulnerabilidad, Ruben, Giorgio,1, Irritado , Incorrecto,7, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-10 21:53(56.209)],9183, Hombre
+36, vulnerabilidad, Ruben, Giorgio,29, Reflexivo, Correcto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-10 21:54(07.681)],11472, Hombre

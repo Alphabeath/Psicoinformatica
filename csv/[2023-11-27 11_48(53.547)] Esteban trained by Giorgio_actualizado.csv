@@ -1,0 +1,37 @@
+Test no, Test Name, Learner, Trainer,Num Eye, Selected, Correctness, Intensity,C1, C2, C3, C4, Date, Answering Time (ms), Sexo
+1, vulnerabilidad, Esteban, Giorgio,14, Irritado, Incorrecto,3, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 11:35(22.937)],47021, Hombre
+2, vulnerabilidad, Esteban, Giorgio,3, Desconcertada, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 11:36(16.253)],53316, Hombre
+3, vulnerabilidad, Esteban, Giorgio,2, Arrogante , Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 11:36(26.275)],10022, Hombre
+4, vulnerabilidad, Esteban, Giorgio,8, Abatido, Correcto,3, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 11:37(00.164)],33889, Hombre
+5, vulnerabilidad, Esteban, Giorgio,16, Comprensivo, Incorrecto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 11:37(09.777)],9612, Hombre
+6, vulnerabilidad, Esteban, Giorgio,23, Desafiante, Correcto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 11:37(57.366)],47588, Hombre
+7, vulnerabilidad, Esteban, Giorgio,9, Preocupado , Correcto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 11:38(12.144)],14777, Hombre
+8, vulnerabilidad, Esteban, Giorgio,24, Pensativo , Correcto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 11:38(38.943)],26798, Hombre
+9, vulnerabilidad, Esteban, Giorgio,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 11:39(21.492)],42548, Hombre
+10, vulnerabilidad, Esteban, Giorgio,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 11:39(32.587)],11095, Hombre
+11, vulnerabilidad, Esteban, Giorgio,31, Seguro, Correcto,5, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 11:39(43.82)],10491, Hombre
+12, vulnerabilidad, Esteban, Giorgio,6, Impaciente, Incorrecto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 11:40(54.945)],71862, Hombre
+13, vulnerabilidad, Esteban, Giorgio,27, Arrogante, Incorrecto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 11:41(04.203)],9257, Hombre
+14, vulnerabilidad, Esteban, Giorgio,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 11:41(44.341)],40137, Hombre
+15, vulnerabilidad, Esteban, Giorgio,35, Nervioso, Correcto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 11:41(51.605)],7263, Hombre
+16, vulnerabilidad, Esteban, Giorgio,32, serio, Correcto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 11:42(37.350)],45744, Hombre
+17, vulnerabilidad, Esteban, Giorgio,11, Aterrorizado, Incorrecto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 11:43(39.345)],61995, Hombre
+18, vulnerabilidad, Esteban, Giorgio,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 11:43(50.960)],11614, Hombre
+19, vulnerabilidad, Esteban, Giorgio,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 11:43(59.756)],8795, Hombre
+20, vulnerabilidad, Esteban, Giorgio,29, Irritado, Incorrecto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 11:44(08.790)],9033, Hombre
+21, vulnerabilidad, Esteban, Giorgio,19, Arrogante, Incorrecto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 11:44(20.803)],12012, Hombre
+22, vulnerabilidad, Esteban, Giorgio,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 11:45(00.970)],40167, Hombre
+23, vulnerabilidad, Esteban, Giorgio,4, Relajado, Incorrecto,4,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 11:45(37.502)],36531, Hombre
+24, vulnerabilidad, Esteban, Giorgio,10, Insistente, Incorrecto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 11:45(53.759)],16257, Hombre
+25, vulnerabilidad, Esteban, Giorgio,13, Decidido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 11:46(00.990)],7231, Hombre
+26, vulnerabilidad, Esteban, Giorgio,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 11:46(10.303)],9313, Hombre
+27, vulnerabilidad, Esteban, Giorgio,1, Reconfortante , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 11:46(16.941)],6638, Hombre
+28, vulnerabilidad, Esteban, Giorgio,7, Inquieto, Correcto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 11:47(09.32)],52090, Hombre
+29, vulnerabilidad, Esteban, Giorgio,18, Decido, Correcto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 11:47(18.222)],9189, Hombre
+30, vulnerabilidad, Esteban, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 11:47(24.727)],6505, Hombre
+31, vulnerabilidad, Esteban, Giorgio,20, Amistoso, Correcto,4, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 11:47(31.477)],6749, Hombre
+32, vulnerabilidad, Esteban, Giorgio,21, Fantaseando, Correcto,3, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 11:47(47.29)],15551, Hombre
+33, vulnerabilidad, Esteban, Giorgio,22, Preocupado , Correcto,3, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 11:47(55.483)],8454, Hombre
+34, vulnerabilidad, Esteban, Giorgio,15, Entretenido, Incorrecto,2, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 11:48(10.382)],14898, Hombre
+35, vulnerabilidad, Esteban, Giorgio,34, Desconfiado, Correcto,3, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 11:48(25.260)],14877, Hombre
+36, vulnerabilidad, Esteban, Giorgio,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 11:48(32.24)],6764, Hombre
