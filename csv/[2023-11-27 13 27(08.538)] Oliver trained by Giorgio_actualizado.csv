@@ -1,0 +1,37 @@
+Test no, Test Name, Learner, Trainer,Num Eye, Selected, Correctness, Intensity,C1, C2, C3, C4, Date, Answering Time (ms), Sexo
+1, poder, Oliver, Giorgio,9, Molesto , Incorrecto,2, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 13:21(40.284)],10562, Hombre
+2, poder, Oliver, Giorgio,35, Contemplativo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 13:21(47.940)],7656, Hombre
+3, poder, Oliver, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 13:22(11.89)],23149, Hombre
+4, poder, Oliver, Giorgio,1, Juguetón, Correcto,6, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 13:22(16.532)],5442, Hombre
+5, poder, Oliver, Giorgio,6, Fantaseando, Correcto,3, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 13:22(21.189)],4657, Hombre
+6, poder, Oliver, Giorgio,33, Preocupado , Correcto,7, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 13:22(24.434)],3245, Hombre
+7, poder, Oliver, Giorgio,34, Desconfiado, Correcto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 13:22(29.824)],5390, Hombre
+8, poder, Oliver, Giorgio,2, Irritado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 13:22(51.540)],21716, Hombre
+9, poder, Oliver, Giorgio,5, Irritado, Incorrecto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 13:22(57.871)],6330, Hombre
+10, poder, Oliver, Giorgio,12, Indiferente, Incorrecto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 13:23(03.100)],5229, Hombre
+11, poder, Oliver, Giorgio,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 13:23(09.541)],6441, Hombre
+12, poder, Oliver, Giorgio,7, Inquieto, Correcto,3, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 13:23(15.15)],5474, Hombre
+13, poder, Oliver, Giorgio,8, Abatido, Correcto,4, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 13:23(20.914)],5899, Hombre
+14, poder, Oliver, Giorgio,10, Cauteloso, Correcto,4, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 13:23(34.337)],13423, Hombre
+15, poder, Oliver, Giorgio,11, Entretenido, Incorrecto,5, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 13:23(44.207)],9870, Hombre
+16, poder, Oliver, Giorgio,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 13:23(48.285)],4078, Hombre
+17, poder, Oliver, Giorgio,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 13:23(54.650)],6365, Hombre
+18, poder, Oliver, Giorgio,15, Contemplativo, Correcto,2, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 13:23(59.872)],5222, Hombre
+19, poder, Oliver, Giorgio,16, Reflexivo, Correcto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 13:24(03.613)],3741, Hombre
+20, poder, Oliver, Giorgio,3, Convencida, Incorrecto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 13:24(16.436)],12823, Hombre
+21, poder, Oliver, Giorgio,17, Dudoso, Correcto,2, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 13:24(30.169)],13733, Hombre
+22, poder, Oliver, Giorgio,20, Amistoso, Correcto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 13:24(34.376)],4207, Hombre
+23, poder, Oliver, Giorgio,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 13:24(39.861)],5485, Hombre
+24, poder, Oliver, Giorgio,19, Agradecido, Incorrecto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 13:24(44.141)],4280, Hombre
+25, poder, Oliver, Giorgio,23, Satisfecho, Incorrecto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 13:24(49.304)],5163, Hombre
+26, poder, Oliver, Giorgio,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 13:24(53.942)],4638, Hombre
+27, poder, Oliver, Giorgio,21, Fantaseando, Correcto,3, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 13:25(30.926)],36983, Hombre
+28, poder, Oliver, Giorgio,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 13:25(36.99)],5173, Hombre
+29, poder, Oliver, Giorgio,27, Cauteloso, Correcto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 13:25(41.838)],5739, Hombre
+30, poder, Oliver, Giorgio,29, Reflexivo, Correcto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 13:25(46.778)],4940, Hombre
+31, poder, Oliver, Giorgio,25, Incrédulo, Incorrecto,7, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 13:25(59.551)],12772, Hombre
+32, poder, Oliver, Giorgio,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 13:26(03.896)],4344, Hombre
+33, poder, Oliver, Giorgio,26, Hostil, Correcto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 13:26(34.967)],31071, Hombre
+34, poder, Oliver, Giorgio,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 13:26(42.404)],7436, Hombre
+35, poder, Oliver, Giorgio,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 13:26(47.61)],4656, Hombre
+36, poder, Oliver, Giorgio,32, Alarmado, Incorrecto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 13:26(50.450)],3388, Hombre
