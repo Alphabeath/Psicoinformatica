@@ -24,7 +24,7 @@
         carcomiéndome, consciente de que mi destino laboral estaba en manos de
         alguien que había jugado con mis emociones y mi vulnerabilidad.
       </p>
-      <!-- <audio src="/Entrevistado.mp3" autoplay></audio> -->
+      <audio src="/Entrevistado.mp3" autoplay></audio>
       <div class="container">
         <h2>Realizar test</h2>
         <button
@@ -86,6 +86,6 @@
   .container p {
     max-width: 800px; /* Ajusta este valor a lo que necesites */
     text-align: justify;
-    margin: 0 auto;
+    margin: 0 40px;
   }
 </style>
