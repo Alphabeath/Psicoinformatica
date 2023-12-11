@@ -827,3 +827,292 @@ Test no, Test Name, Learner, Trainer,Num Eye, Selected, Correctness, Intensity,C
 34, vulnerabilidad, alejandro, vane,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-26 22:53(58.476)],14362, Hombre
 35, vulnerabilidad, alejandro, vane,34, Desconcertado, Incorrecto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-26 22:54(32.381)],33904, Hombre
 36, vulnerabilidad, alejandro, vane,24, Irritado  , Incorrecto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-26 22:54(46.523)],14141, Hombre
+1, vulnerabilidad, Constanza, Yerko,24, Hostil, Incorrecto,4, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-10 22:50(15.574)],10667, Mujer
+2, vulnerabilidad, Constanza, Yerko,34, Desconfiado, Correcto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-10 22:50(31.531)],15956, Mujer
+3, vulnerabilidad, Constanza, Yerko,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-10 22:50(42.423)],10890, Mujer
+4, vulnerabilidad, Constanza, Yerko,36, Indeciso, Incorrecto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-10 22:50(46.706)],4283, Mujer
+5, vulnerabilidad, Constanza, Yerko,35, Insistente, Incorrecto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-10 22:50(54.381)],7674, Mujer
+6, vulnerabilidad, Constanza, Yerko,25, Abatido, Incorrecto,2, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-10 22:51(05.158)],10777, Mujer
+7, vulnerabilidad, Constanza, Yerko,17, Dudoso, Correcto,4, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-10 22:51(17.330)],12172, Mujer
+8, vulnerabilidad, Constanza, Yerko,18, Decido, Correcto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-12-10 22:51(20.875)],3545, Mujer
+9, vulnerabilidad, Constanza, Yerko,20, Amistoso, Correcto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-10 22:51(26.338)],5463, Mujer
+10, vulnerabilidad, Constanza, Yerko,26, Alarmado, Incorrecto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-12-10 22:51(31.15)],4677, Mujer
+11, vulnerabilidad, Constanza, Yerko,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-10 22:51(38.246)],7231, Mujer
+12, vulnerabilidad, Constanza, Yerko,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-10 22:51(43.638)],5392, Mujer
+13, vulnerabilidad, Constanza, Yerko,9, Preocupado , Correcto,6, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-10 22:51(52.704)],9066, Mujer
+14, vulnerabilidad, Constanza, Yerko,29, Irritado, Incorrecto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-10 22:52(01.20)],8316, Mujer
+15, vulnerabilidad, Constanza, Yerko,7, Arrepentido, Incorrecto,5, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-10 22:52(08.78)],7058, Mujer
+16, vulnerabilidad, Constanza, Yerko,19, Tentativo, Correcto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-10 22:52(12.253)],4175, Mujer
+17, vulnerabilidad, Constanza, Yerko,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-10 22:52(18.403)],6150, Mujer
+18, vulnerabilidad, Constanza, Yerko,23, Desafiante, Correcto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-10 22:52(22.602)],4198, Mujer
+19, vulnerabilidad, Constanza, Yerko,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-12-10 22:52(28.336)],5733, Mujer
+20, vulnerabilidad, Constanza, Yerko,13, Anticipando, Correcto,6, Anticipando, Decidido, Amenazante, Tímido, [2023-12-10 22:53(11.785)],43449, Mujer
+21, vulnerabilidad, Constanza, Yerko,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-10 22:53(17.802)],6017, Mujer
+22, vulnerabilidad, Constanza, Yerko,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-10 22:53(26.834)],9032, Mujer
+23, vulnerabilidad, Constanza, Yerko,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-10 22:53(29.735)],2900, Mujer
+24, vulnerabilidad, Constanza, Yerko,6, Fantaseando, Correcto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-10 22:53(41.901)],12165, Mujer
+25, vulnerabilidad, Constanza, Yerko,32, Alarmado, Incorrecto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-10 22:54(11.715)],29812, Mujer
+26, vulnerabilidad, Constanza, Yerko,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-10 22:54(17.826)],6110, Mujer
+27, vulnerabilidad, Constanza, Yerko,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-10 22:54(25.858)],8032, Mujer
+28, vulnerabilidad, Constanza, Yerko,1, Juguetón, Correcto,7, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-10 22:54(29.841)],3983, Mujer
+29, vulnerabilidad, Constanza, Yerko,4,  Insistente, Correcto,5,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-10 22:54(36.739)],6898, Mujer
+30, vulnerabilidad, Constanza, Yerko,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-10 22:54(45.798)],9059, Mujer
+31, vulnerabilidad, Constanza, Yerko,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-12-10 22:54(53.773)],7974, Mujer
+32, vulnerabilidad, Constanza, Yerko,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-10 22:54(59.390)],5616, Mujer
+33, vulnerabilidad, Constanza, Yerko,12, Indiferente, Incorrecto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-10 22:55(05.532)],6141, Mujer
+34, vulnerabilidad, Constanza, Yerko,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-10 22:55(10.654)],5122, Mujer
+35, vulnerabilidad, Constanza, Yerko,16, Reflexivo, Correcto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-10 22:55(13.522)],2868, Mujer
+36, vulnerabilidad, Constanza, Yerko,14, Acusador, Correcto,7, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-10 22:55(18.749)],5227, Mujer
+1, vulnerabilidad, Jessica , Yerko,29, Reflexivo, Correcto,4, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-10 23:08(08.803)],21389, Mujer
+2, vulnerabilidad, Jessica , Yerko,31, Seguro, Correcto,5, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-10 23:08(34.754)],25941, Mujer
+3, vulnerabilidad, Jessica , Yerko,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-10 23:08(48.528)],13771, Mujer
+4, vulnerabilidad, Jessica , Yerko,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-10 23:08(57.445)],8914, Mujer
+5, vulnerabilidad, Jessica , Yerko,36, Suspicaz, Correcto,7, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-10 23:09(04.618)],7168, Mujer
+6, vulnerabilidad, Jessica , Yerko,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-12-10 23:09(12.295)],7674, Mujer
+7, vulnerabilidad, Jessica , Yerko,24, Hostil, Incorrecto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-10 23:09(26.115)],13816, Mujer
+8, vulnerabilidad, Jessica , Yerko,10, Cauteloso, Correcto,7, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-10 23:09(35.790)],9672, Mujer
+9, vulnerabilidad, Jessica , Yerko,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-12-10 23:09(48.722)],12928, Mujer
+10, vulnerabilidad, Jessica , Yerko,14, Acusador, Correcto,7, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-10 23:09(58.636)],9911, Mujer
+11, vulnerabilidad, Jessica , Yerko,1, Juguetón, Correcto,6, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-10 23:10(06.815)],8175, Mujer
+12, vulnerabilidad, Jessica , Yerko,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-12-10 23:10(18.697)],11876, Mujer
+13, vulnerabilidad, Jessica , Yerko,11, Coqueto, Incorrecto,5, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-10 23:10(34.64)],15364, Mujer
+14, vulnerabilidad, Jessica , Yerko,20, Dominante, Incorrecto,7, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-10 23:10(46.159)],12092, Mujer
+15, vulnerabilidad, Jessica , Yerko,35, Perplejo, Incorrecto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-10 23:10(57.75)],10912, Mujer
+16, vulnerabilidad, Jessica , Yerko,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-10 23:11(19.838)],22760, Mujer
+17, vulnerabilidad, Jessica , Yerko,32, Alarmado, Incorrecto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-10 23:11(28.747)],8897, Mujer
+18, vulnerabilidad, Jessica , Yerko,25, Abatido, Incorrecto,7, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-10 23:11(38.115)],9365, Mujer
+19, vulnerabilidad, Jessica , Yerko,17, Dudoso, Correcto,7, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-10 23:11(47.923)],9804, Mujer
+20, vulnerabilidad, Jessica , Yerko,2, Irritado, Incorrecto,7, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-10 23:12(06.951)],19025, Mujer
+21, vulnerabilidad, Jessica , Yerko,6, Alarmado, Incorrecto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-10 23:12(25.523)],18570, Mujer
+22, vulnerabilidad, Jessica , Yerko,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-10 23:12(37.998)],12470, Mujer
+23, vulnerabilidad, Jessica , Yerko,27, Cauteloso, Correcto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-10 23:12(49.721)],11719, Mujer
+24, vulnerabilidad, Jessica , Yerko,30, Hostil, Incorrecto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-10 23:12(56.933)],7208, Mujer
+25, vulnerabilidad, Jessica , Yerko,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-10 23:13(06.465)],9528, Mujer
+26, vulnerabilidad, Jessica , Yerko,13, Anticipando, Correcto,7, Anticipando, Decidido, Amenazante, Tímido, [2023-12-10 23:13(17.205)],10737, Mujer
+27, vulnerabilidad, Jessica , Yerko,21, Confundido, Incorrecto,7, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-10 23:13(25.324)],8115, Mujer
+28, vulnerabilidad, Jessica , Yerko,34, Desconcertado, Incorrecto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-10 23:13(33.371)],8042, Mujer
+29, vulnerabilidad, Jessica , Yerko,7, Inquieto, Correcto,7, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-10 23:13(45.809)],12435, Mujer
+30, vulnerabilidad, Jessica , Yerko,9, Preocupado , Correcto,7, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-10 23:13(53.706)],7893, Mujer
+31, vulnerabilidad, Jessica , Yerko,12, Escéptico, Correcto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-10 23:14(02.294)],8585, Mujer
+32, vulnerabilidad, Jessica , Yerko,19, Tentativo, Correcto,7, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-10 23:14(09.19)],6721, Mujer
+33, vulnerabilidad, Jessica , Yerko,15, Contemplativo, Correcto,7, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-10 23:14(18.278)],9256, Mujer
+34, vulnerabilidad, Jessica , Yerko,23, Desafiante, Correcto,7, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-10 23:14(26.283)],8000, Mujer
+35, vulnerabilidad, Jessica , Yerko,16, Reflexivo, Correcto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-10 23:14(31.628)],5340, Mujer
+36, vulnerabilidad, Jessica , Yerko,26, Ansioso, Incorrecto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-12-10 23:14(40.574)],8944, Mujer
+1, poder, Anaís Sánchez García, Yerko,1, Reconfortante , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-11 01:25(33.391)],62920, Mujer
+2, poder, Anaís Sánchez García, Yerko,2, Irritado, Incorrecto,4, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-11 01:26(45.100)],71707, Mujer
+3, poder, Anaís Sánchez García, Yerko,13, Tímido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-12-11 01:27(17.247)],32145, Mujer
+4, poder, Anaís Sánchez García, Yerko,27, Cauteloso, Correcto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-11 01:27(42.639)],25390, Mujer
+5, poder, Anaís Sánchez García, Yerko,9, Preocupado , Correcto,3, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-11 01:28(14.371)],31722, Mujer
+6, poder, Anaís Sánchez García, Yerko,19, Agradecido, Incorrecto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-11 01:28(29.407)],15034, Mujer
+7, poder, Anaís Sánchez García, Yerko,28, Interesado, Correcto,3, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-11 01:28(57.922)],28514, Mujer
+8, poder, Anaís Sánchez García, Yerko,36, Suspicaz, Correcto,7, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-11 01:29(21.709)],23786, Mujer
+9, poder, Anaís Sánchez García, Yerko,16, Reflexivo, Correcto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-11 01:29(36.398)],14688, Mujer
+10, poder, Anaís Sánchez García, Yerko,34, Desconcertado, Incorrecto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-11 01:30(04.188)],27788, Mujer
+11, poder, Anaís Sánchez García, Yerko,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-12-11 01:30(22.210)],18020, Mujer
+12, poder, Anaís Sánchez García, Yerko,12, Escéptico, Correcto,5, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-11 01:30(46.969)],24758, Mujer
+13, poder, Anaís Sánchez García, Yerko,3, Desconcertada, Incorrecto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-12-11 01:30(56.939)],9969, Mujer
+14, poder, Anaís Sánchez García, Yerko,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-11 01:31(03.611)],6670, Mujer
+15, poder, Anaís Sánchez García, Yerko,31, Seguro, Correcto,5, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-11 01:31(13.706)],10093, Mujer
+16, poder, Anaís Sánchez García, Yerko,29, Impaciente , Incorrecto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-11 01:31(46.791)],33084, Mujer
+17, poder, Anaís Sánchez García, Yerko,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-11 01:31(57.451)],10658, Mujer
+18, poder, Anaís Sánchez García, Yerko,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-11 01:32(06.180)],8726, Mujer
+19, poder, Anaís Sánchez García, Yerko,25, Incrédulo, Incorrecto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-11 01:32(34.727)],28545, Mujer
+20, poder, Anaís Sánchez García, Yerko,22, Suplicante, Incorrecto,5, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-11 01:32(44.880)],10151, Mujer
+21, poder, Anaís Sánchez García, Yerko,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-11 01:32(53.419)],8537, Mujer
+22, poder, Anaís Sánchez García, Yerko,35, Nervioso, Correcto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-11 01:33(01.152)],7730, Mujer
+23, poder, Anaís Sánchez García, Yerko,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-11 01:33(08.814)],7659, Mujer
+24, poder, Anaís Sánchez García, Yerko,24, Hostil, Incorrecto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-11 01:33(14.816)],6000, Mujer
+25, poder, Anaís Sánchez García, Yerko,4,  Insistente, Correcto,5,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-11 01:33(22.532)],7714, Mujer
+26, poder, Anaís Sánchez García, Yerko,17, Dudoso, Correcto,6, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-11 01:33(34.492)],11958, Mujer
+27, poder, Anaís Sánchez García, Yerko,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-11 01:33(39.915)],5421, Mujer
+28, poder, Anaís Sánchez García, Yerko,26, Ansioso, Incorrecto,4, Hostil, Alarmado, Tímido, Ansioso, [2023-12-11 01:33(48.973)],9056, Mujer
+29, poder, Anaís Sánchez García, Yerko,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-11 01:33(55.601)],6625, Mujer
+30, poder, Anaís Sánchez García, Yerko,18, Horrorizado, Incorrecto,3, Decido, Entretenido, Horrorizado, aburrido, [2023-12-11 01:34(07.999)],12396, Mujer
+31, poder, Anaís Sánchez García, Yerko,7, Amistoso, Incorrecto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-11 01:34(33.208)],25207, Mujer
+32, poder, Anaís Sánchez García, Yerko,30, Coqueto, Correcto,5, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-11 01:34(37.434)],4225, Mujer
+33, poder, Anaís Sánchez García, Yerko,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-11 01:34(43.623)],6187, Mujer
+34, poder, Anaís Sánchez García, Yerko,11, Arrepentido, Correcto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-11 01:34(48.731)],5105, Mujer
+35, poder, Anaís Sánchez García, Yerko,32, serio, Correcto,4, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-11 01:34(56.175)],7441, Mujer
+36, poder, Anaís Sánchez García, Yerko,15, Contemplativo, Correcto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-11 01:35(05.185)],9008, Mujer
+1, vulnerabilidad, Camilo, Yerko,33, Fantaseando, Incorrecto,4, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-10 23:42(42.717)],5566, Hombre
+2, vulnerabilidad, Camilo, Yerko,22, Preocupado , Correcto,4, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-10 23:42(49.4)],6285, Hombre
+3, vulnerabilidad, Camilo, Yerko,34, Desconfiado, Correcto,5, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-10 23:42(51.541)],2536, Hombre
+4, vulnerabilidad, Camilo, Yerko,36, Indeciso, Incorrecto,5, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-10 23:42(54.841)],3300, Hombre
+5, vulnerabilidad, Camilo, Yerko,35, Contemplativo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-10 23:42(58.461)],3619, Hombre
+6, vulnerabilidad, Camilo, Yerko,15, Contemplativo, Correcto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-10 23:43(03.130)],4669, Hombre
+7, vulnerabilidad, Camilo, Yerko,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-10 23:43(07.116)],3986, Hombre
+8, vulnerabilidad, Camilo, Yerko,20, Dominante, Incorrecto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-10 23:43(11.553)],4436, Hombre
+9, vulnerabilidad, Camilo, Yerko,27, Bromista , Incorrecto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-10 23:43(16.939)],5386, Hombre
+10, vulnerabilidad, Camilo, Yerko,10, Insistente, Incorrecto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-10 23:43(21.791)],4852, Hombre
+11, vulnerabilidad, Camilo, Yerko,3, Convencida, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-12-10 23:43(25.860)],4069, Hombre
+12, vulnerabilidad, Camilo, Yerko,4,  Insistente, Correcto,5,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-10 23:43(29.496)],3636, Hombre
+13, vulnerabilidad, Camilo, Yerko,24, Hostil, Incorrecto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-10 23:43(31.581)],2085, Hombre
+14, vulnerabilidad, Camilo, Yerko,1, Juguetón, Correcto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-10 23:43(37.84)],5503, Hombre
+15, vulnerabilidad, Camilo, Yerko,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-10 23:43(41.939)],4855, Hombre
+16, vulnerabilidad, Camilo, Yerko,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-10 23:43(50.945)],9004, Hombre
+17, vulnerabilidad, Camilo, Yerko,19, Tentativo, Correcto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-10 23:43(54.495)],3550, Hombre
+18, vulnerabilidad, Camilo, Yerko,26, Alarmado, Incorrecto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-12-10 23:43(57.463)],2967, Hombre
+19, vulnerabilidad, Camilo, Yerko,32, Alarmado, Incorrecto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-10 23:44(00.667)],3204, Hombre
+20, vulnerabilidad, Camilo, Yerko,6, Alarmado, Incorrecto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-10 23:44(03.854)],3187, Hombre
+21, vulnerabilidad, Camilo, Yerko,8, Aliviado, Incorrecto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-12-10 23:44(06.655)],2801, Hombre
+22, vulnerabilidad, Camilo, Yerko,25, Interesado, Correcto,5, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-10 23:44(10.570)],3915, Hombre
+23, vulnerabilidad, Camilo, Yerko,9, Preocupado , Correcto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-10 23:44(15.790)],5220, Hombre
+24, vulnerabilidad, Camilo, Yerko,7, Amistoso, Incorrecto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-10 23:44(19.41)],3250, Hombre
+25, vulnerabilidad, Camilo, Yerko,31, Seguro, Correcto,4, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-10 23:44(22.592)],3550, Hombre
+26, vulnerabilidad, Camilo, Yerko,30, Coqueto, Correcto,6, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-10 23:44(28.875)],6283, Hombre
+27, vulnerabilidad, Camilo, Yerko,29, Reflexivo, Correcto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-10 23:44(57.839)],28963, Hombre
+28, vulnerabilidad, Camilo, Yerko,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-10 23:45(04.489)],6650, Hombre
+29, vulnerabilidad, Camilo, Yerko,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-10 23:45(08.911)],4422, Hombre
+30, vulnerabilidad, Camilo, Yerko,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-10 23:45(17.167)],8256, Hombre
+31, vulnerabilidad, Camilo, Yerko,12, Indiferente, Incorrecto,5, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-10 23:45(26.390)],9223, Hombre
+32, vulnerabilidad, Camilo, Yerko,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-10 23:45(32.161)],5770, Hombre
+33, vulnerabilidad, Camilo, Yerko,17, Dudoso, Correcto,7, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-10 23:45(35.364)],3203, Hombre
+34, vulnerabilidad, Camilo, Yerko,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-12-10 23:45(38.714)],3349, Hombre
+35, vulnerabilidad, Camilo, Yerko,16, Comprensivo, Incorrecto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-10 23:45(42.884)],4169, Hombre
+36, vulnerabilidad, Camilo, Yerko,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-12-10 23:45(48.789)],5905, Hombre
+1, vulnerabilidad, Hernán, Yerko,20, Dominante, Incorrecto,2, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-11 00:52(41.525)],48370, Hombre
+2, vulnerabilidad, Hernán, Yerko,13, Tímido, Incorrecto,1, Anticipando, Decidido, Amenazante, Tímido, [2023-12-11 00:52(57.386)],15860, Hombre
+3, vulnerabilidad, Hernán, Yerko,11, Arrepentido, Correcto,1, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-11 00:53(13.925)],16537, Hombre
+4, vulnerabilidad, Hernán, Yerko,15, Contemplativo, Correcto,4, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-11 00:53(50.806)],36880, Hombre
+5, vulnerabilidad, Hernán, Yerko,4,  Insistente, Correcto,1,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-11 00:54(18.490)],27683, Hombre
+6, vulnerabilidad, Hernán, Yerko,32, serio, Correcto,4, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-11 00:54(36.995)],18504, Hombre
+7, vulnerabilidad, Hernán, Yerko,3, Convencida, Incorrecto,3, Deseo, Desconcertada, Bromista, Convencida, [2023-12-11 00:54(52.776)],15775, Hombre
+8, vulnerabilidad, Hernán, Yerko,28, Interesado, Correcto,2, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-11 00:55(07.436)],14660, Hombre
+9, vulnerabilidad, Hernán, Yerko,6, Fantaseando, Correcto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-11 00:55(20.45)],12608, Hombre
+10, vulnerabilidad, Hernán, Yerko,30, Coqueto, Correcto,1, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-11 00:55(35.944)],15893, Hombre
+11, vulnerabilidad, Hernán, Yerko,7, Desanimado, Incorrecto,3, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-11 00:56(03.982)],28036, Hombre
+12, vulnerabilidad, Hernán, Yerko,18, Decido, Correcto,3, Decido, Entretenido, Horrorizado, aburrido, [2023-12-11 00:56(18.510)],14527, Hombre
+13, vulnerabilidad, Hernán, Yerko,22, Preocupado , Correcto,4, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-11 00:56(31.323)],12808, Hombre
+14, vulnerabilidad, Hernán, Yerko,36, Suspicaz, Correcto,2, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-11 00:56(44.416)],13088, Hombre
+15, vulnerabilidad, Hernán, Yerko,14, Acusador, Correcto,1, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-11 00:57(03.340)],18918, Hombre
+16, vulnerabilidad, Hernán, Yerko,5, Preocupado , Correcto,2, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-11 00:57(13.852)],10511, Hombre
+17, vulnerabilidad, Hernán, Yerko,9, Preocupado , Correcto,3, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-11 00:57(21.752)],7895, Hombre
+18, vulnerabilidad, Hernán, Yerko,2, Aterrorizado, Incorrecto,1, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-11 00:57(36.533)],14781, Hombre
+19, vulnerabilidad, Hernán, Yerko,8, Abatido, Correcto,1, Abatido, Aliviado, Tímido, Emocionado, [2023-12-11 00:57(52.351)],15817, Hombre
+20, vulnerabilidad, Hernán, Yerko,17, Dudoso, Correcto,3, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-11 00:58(15.478)],23125, Hombre
+21, vulnerabilidad, Hernán, Yerko,34, Desconcertado, Incorrecto,1, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-11 00:58(28.706)],13224, Hombre
+22, vulnerabilidad, Hernán, Yerko,1, Juguetón, Correcto,2, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-11 00:58(58.682)],29975, Hombre
+23, vulnerabilidad, Hernán, Yerko,25, Interesado, Correcto,3, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-11 00:59(17.590)],18907, Hombre
+24, vulnerabilidad, Hernán, Yerko,27, Cauteloso, Correcto,2, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-11 00:59(32.605)],15014, Hombre
+25, vulnerabilidad, Hernán, Yerko,16, Reflexivo, Correcto,3, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-11 00:59(47.713)],15102, Hombre
+26, vulnerabilidad, Hernán, Yerko,26, Hostil, Correcto,2, Hostil, Alarmado, Tímido, Ansioso, [2023-12-11 01:00(22.650)],34936, Hombre
+27, vulnerabilidad, Hernán, Yerko,21, Fantaseando, Correcto,3, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-11 01:00(35.347)],12696, Hombre
+28, vulnerabilidad, Hernán, Yerko,29, Reflexivo, Correcto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-11 01:00(42.758)],7404, Hombre
+29, vulnerabilidad, Hernán, Yerko,10, Aburrido, Incorrecto,2, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-11 01:01(17.747)],34988, Hombre
+30, vulnerabilidad, Hernán, Yerko,19, Tentativo, Correcto,1, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-11 01:01(42.518)],24770, Hombre
+31, vulnerabilidad, Hernán, Yerko,23, Curioso, Incorrecto,2, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-11 01:02(11.509)],28990, Hombre
+32, vulnerabilidad, Hernán, Yerko,31, Seguro, Correcto,2, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-11 01:02(22.494)],10983, Hombre
+33, vulnerabilidad, Hernán, Yerko,33, Preocupado , Correcto,2, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-11 01:02(33.457)],10958, Hombre
+34, vulnerabilidad, Hernán, Yerko,12, Escéptico, Correcto,3, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-11 01:02(47.762)],14299, Hombre
+35, vulnerabilidad, Hernán, Yerko,35, Nervioso, Correcto,2, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-11 01:03(08.210)],20447, Hombre
+36, vulnerabilidad, Hernán, Yerko,24, Pensativo , Correcto,4, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-11 01:03(17.428)],9217, Hombre
+1, vulnerabilidad, Lucas, Yerko,30, Hostil, Incorrecto,5, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-11 01:24(29.734)],29415, Hombre
+2, vulnerabilidad, Lucas, Yerko,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-12-11 01:24(42.371)],12637, Hombre
+3, vulnerabilidad, Lucas, Yerko,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-12-11 01:24(56.713)],14342, Hombre
+4, vulnerabilidad, Lucas, Yerko,20, Dominante, Incorrecto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-11 01:25(23.702)],26988, Hombre
+5, vulnerabilidad, Lucas, Yerko,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-11 01:25(35.349)],11647, Hombre
+6, vulnerabilidad, Lucas, Yerko,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-12-11 01:25(39.818)],4469, Hombre
+7, vulnerabilidad, Lucas, Yerko,16, Comprensivo, Incorrecto,4, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-11 01:25(49.736)],9917, Hombre
+8, vulnerabilidad, Lucas, Yerko,23, Desafiante, Correcto,3, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-11 01:26(03.673)],13937, Hombre
+9, vulnerabilidad, Lucas, Yerko,31, Bromista, Incorrecto,5, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-11 01:26(10.384)],6711, Hombre
+10, vulnerabilidad, Lucas, Yerko,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-11 01:26(23.185)],12800, Hombre
+11, vulnerabilidad, Lucas, Yerko,32, serio, Correcto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-11 01:26(28.521)],5335, Hombre
+12, vulnerabilidad, Lucas, Yerko,35, Insistente, Incorrecto,4, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-11 01:26(38.722)],10201, Hombre
+13, vulnerabilidad, Lucas, Yerko,14, Irritado, Incorrecto,2, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-11 01:27(39.713)],60990, Hombre
+14, vulnerabilidad, Lucas, Yerko,21, Aterrado, Incorrecto,1, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-11 01:27(55.303)],15589, Hombre
+15, vulnerabilidad, Lucas, Yerko,19, Arrogante, Incorrecto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-11 01:28(17.159)],21856, Hombre
+16, vulnerabilidad, Lucas, Yerko,36, Suspicaz, Correcto,5, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-11 01:28(24.77)],6917, Hombre
+17, vulnerabilidad, Lucas, Yerko,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-11 01:28(30.236)],6158, Hombre
+18, vulnerabilidad, Lucas, Yerko,15, Contemplativo, Correcto,4, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-11 01:28(43.247)],13010, Hombre
+19, vulnerabilidad, Lucas, Yerko,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-11 01:28(52.25)],8775, Hombre
+20, vulnerabilidad, Lucas, Yerko,18, Decido, Correcto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-12-11 01:28(57.152)],5127, Hombre
+21, vulnerabilidad, Lucas, Yerko,7, Inquieto, Correcto,2, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-11 01:29(10.686)],13533, Hombre
+22, vulnerabilidad, Lucas, Yerko,8, Abatido, Correcto,2, Abatido, Aliviado, Tímido, Emocionado, [2023-12-11 01:29(18.870)],8184, Hombre
+23, vulnerabilidad, Lucas, Yerko,5, Preocupado , Correcto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-11 01:29(24.523)],5653, Hombre
+24, vulnerabilidad, Lucas, Yerko,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-11 01:29(29.712)],5189, Hombre
+25, vulnerabilidad, Lucas, Yerko,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-11 01:29(37.646)],7934, Hombre
+26, vulnerabilidad, Lucas, Yerko,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-11 01:29(44.608)],6961, Hombre
+27, vulnerabilidad, Lucas, Yerko,1, Irritado , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-11 01:29(52.953)],8345, Hombre
+28, vulnerabilidad, Lucas, Yerko,9,  Hostil, Incorrecto,3, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-11 01:30(02.692)],9739, Hombre
+29, vulnerabilidad, Lucas, Yerko,34, Desconfiado, Correcto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-11 01:30(12.710)],10018, Hombre
+30, vulnerabilidad, Lucas, Yerko,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-11 01:30(17.478)],4768, Hombre
+31, vulnerabilidad, Lucas, Yerko,2, Irritado, Incorrecto,3, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-11 01:30(33.722)],16244, Hombre
+32, vulnerabilidad, Lucas, Yerko,11, Arrepentido, Correcto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-11 01:30(44.913)],11190, Hombre
+33, vulnerabilidad, Lucas, Yerko,6, Fantaseando, Correcto,3, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-11 01:30(50.211)],5298, Hombre
+34, vulnerabilidad, Lucas, Yerko,29, Reflexivo, Correcto,1, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-11 01:30(56.485)],6273, Hombre
+35, vulnerabilidad, Lucas, Yerko,24, Pensativo , Correcto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-11 01:31(09.82)],12596, Hombre
+36, vulnerabilidad, Lucas, Yerko,25, Interesado, Correcto,5, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-11 01:31(18.441)],9359, Hombre
+1, vulnerabilidad, Luciano Toledo C, Yerko,28, Interesado, Correcto,1, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-11 01:03(38.293)],31690, Hombre
+2, vulnerabilidad, Luciano Toledo C, Yerko,7, Inquieto, Correcto,1, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-11 01:03(47.509)],9216, Hombre
+3, vulnerabilidad, Luciano Toledo C, Yerko,17, Dudoso, Correcto,2, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-11 01:04(37.663)],50154, Hombre
+4, vulnerabilidad, Luciano Toledo C, Yerko,21, Fantaseando, Correcto,4, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-11 01:04(43.798)],6135, Hombre
+5, vulnerabilidad, Luciano Toledo C, Yerko,25, Incrédulo, Incorrecto,3, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-11 01:04(49.731)],5933, Hombre
+6, vulnerabilidad, Luciano Toledo C, Yerko,1, Aburrido, Incorrecto,2, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-11 01:04(57.469)],7738, Hombre
+7, vulnerabilidad, Luciano Toledo C, Yerko,2, Arrogante , Incorrecto,3, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-11 01:05(02.266)],4797, Hombre
+8, vulnerabilidad, Luciano Toledo C, Yerko,35, Perplejo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-11 01:05(07.753)],5487, Hombre
+9, vulnerabilidad, Luciano Toledo C, Yerko,24, Pensativo , Correcto,4, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-11 01:06(07.519)],59766, Hombre
+10, vulnerabilidad, Luciano Toledo C, Yerko,10, Cauteloso, Correcto,4, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-11 01:06(12.430)],4911, Hombre
+11, vulnerabilidad, Luciano Toledo C, Yerko,5, Sarcástico, Incorrecto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-11 01:06(16.80)],3650, Hombre
+12, vulnerabilidad, Luciano Toledo C, Yerko,19, Tentativo, Correcto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-11 01:06(19.734)],3654, Hombre
+13, vulnerabilidad, Luciano Toledo C, Yerko,32, serio, Correcto,4, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-11 01:07(06.518)],46784, Hombre
+14, vulnerabilidad, Luciano Toledo C, Yerko,31, Seguro, Correcto,4, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-11 01:07(32.229)],25711, Hombre
+15, vulnerabilidad, Luciano Toledo C, Yerko,15, Desconcertado, Incorrecto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-11 01:07(35.663)],3434, Hombre
+16, vulnerabilidad, Luciano Toledo C, Yerko,29, Reflexivo, Correcto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-11 01:07(38.757)],3094, Hombre
+17, vulnerabilidad, Luciano Toledo C, Yerko,3, Desconcertada, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-12-11 01:08(17.146)],38389, Hombre
+18, vulnerabilidad, Luciano Toledo C, Yerko,20, Dominante, Incorrecto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-11 01:09(18.860)],61714, Hombre
+19, vulnerabilidad, Luciano Toledo C, Yerko,9, Molesto , Incorrecto,6, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-11 01:09(25.905)],7045, Hombre
+20, vulnerabilidad, Luciano Toledo C, Yerko,16, Reflexivo, Correcto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-11 01:09(37.605)],11699, Hombre
+21, vulnerabilidad, Luciano Toledo C, Yerko,34, Desconfiado, Correcto,5, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-11 01:09(43.659)],6054, Hombre
+22, vulnerabilidad, Luciano Toledo C, Yerko,23, Curioso, Incorrecto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-11 01:10(21.212)],37553, Hombre
+23, vulnerabilidad, Luciano Toledo C, Yerko,8, Abatido, Correcto,7, Abatido, Aliviado, Tímido, Emocionado, [2023-12-11 01:10(25.294)],4082, Hombre
+24, vulnerabilidad, Luciano Toledo C, Yerko,13, Tímido, Incorrecto,7, Anticipando, Decidido, Amenazante, Tímido, [2023-12-11 01:10(30.505)],5210, Hombre
+25, vulnerabilidad, Luciano Toledo C, Yerko,12, Escéptico, Correcto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-11 01:10(33.986)],3481, Hombre
+26, vulnerabilidad, Luciano Toledo C, Yerko,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-12-11 01:10(38.919)],4932, Hombre
+27, vulnerabilidad, Luciano Toledo C, Yerko,30, Hostil, Incorrecto,6, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-11 01:10(42.173)],3254, Hombre
+28, vulnerabilidad, Luciano Toledo C, Yerko,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-11 01:10(45.323)],3149, Hombre
+29, vulnerabilidad, Luciano Toledo C, Yerko,14, Decepcionado, Incorrecto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-11 01:10(49.878)],4555, Hombre
+30, vulnerabilidad, Luciano Toledo C, Yerko,36, Indeciso, Incorrecto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-11 01:10(54.458)],4579, Hombre
+31, vulnerabilidad, Luciano Toledo C, Yerko,11, Entretenido, Incorrecto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-11 01:11(00.241)],5783, Hombre
+32, vulnerabilidad, Luciano Toledo C, Yerko,6, Impaciente, Incorrecto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-11 01:11(04.96)],3855, Hombre
+33, vulnerabilidad, Luciano Toledo C, Yerko,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-11 01:11(07.250)],3153, Hombre
+34, vulnerabilidad, Luciano Toledo C, Yerko,22, Insistente, Incorrecto,1, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-11 01:11(12.231)],4981, Hombre
+35, vulnerabilidad, Luciano Toledo C, Yerko,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-11 01:11(16.851)],4619, Hombre
+36, vulnerabilidad, Luciano Toledo C, Yerko,18, aburrido, Incorrecto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-12-11 01:11(20.759)],3908, Hombre
+1, poder, Nicolas  Villanueva, Yerko,1, Irritado , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-11 01:26(13.531)],6169, Hombre
+2, poder, Nicolas  Villanueva, Yerko,24, Pensativo , Correcto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-11 01:26(15.597)],2066, Hombre
+3, poder, Nicolas  Villanueva, Yerko,5, Sarcástico, Incorrecto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-11 01:26(27.24)],11427, Hombre
+4, poder, Nicolas  Villanueva, Yerko,18, aburrido, Incorrecto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-12-11 01:26(38.423)],11398, Hombre
+5, poder, Nicolas  Villanueva, Yerko,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-11 01:26(41.301)],2876, Hombre
+6, poder, Nicolas  Villanueva, Yerko,29, Reflexivo, Correcto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-11 01:26(43.646)],2344, Hombre
+7, poder, Nicolas  Villanueva, Yerko,20, Dominante, Incorrecto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-11 01:26(45.716)],2070, Hombre
+8, poder, Nicolas  Villanueva, Yerko,8, Tímido, Incorrecto,7, Abatido, Aliviado, Tímido, Emocionado, [2023-12-11 01:26(49.924)],4208, Hombre
+9, poder, Nicolas  Villanueva, Yerko,36, Indeciso, Incorrecto,7, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-11 01:26(52.351)],2426, Hombre
+10, poder, Nicolas  Villanueva, Yerko,30, Hostil, Incorrecto,3, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-11 01:26(54.526)],2175, Hombre
+11, poder, Nicolas  Villanueva, Yerko,6, Impaciente, Incorrecto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-11 01:26(58.291)],3765, Hombre
+12, poder, Nicolas  Villanueva, Yerko,15, Desconcertado, Incorrecto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-11 01:27(01.199)],2907, Hombre
+13, poder, Nicolas  Villanueva, Yerko,12, Indiferente, Incorrecto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-11 01:27(06.640)],5441, Hombre
+14, poder, Nicolas  Villanueva, Yerko,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-11 01:28(53.120)],106479, Hombre
+15, poder, Nicolas  Villanueva, Yerko,28, Interesado, Correcto,7, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-11 01:28(56.80)],2960, Hombre
+16, poder, Nicolas  Villanueva, Yerko,23, Curioso, Incorrecto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-11 01:28(59.780)],3700, Hombre
+17, poder, Nicolas  Villanueva, Yerko,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-11 01:29(04.269)],4488, Hombre
+18, poder, Nicolas  Villanueva, Yerko,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-11 01:29(07.330)],3061, Hombre
+19, poder, Nicolas  Villanueva, Yerko,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-11 01:29(09.973)],2643, Hombre
+20, poder, Nicolas  Villanueva, Yerko,27, Tranquilizador, Incorrecto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-11 01:29(13.268)],3295, Hombre
+21, poder, Nicolas  Villanueva, Yerko,2, Arrogante , Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-11 01:29(16.284)],3016, Hombre
+22, poder, Nicolas  Villanueva, Yerko,21, Fantaseando, Correcto,7, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-11 01:29(19.372)],3087, Hombre
+23, poder, Nicolas  Villanueva, Yerko,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-11 01:29(21.750)],2377, Hombre
+24, poder, Nicolas  Villanueva, Yerko,3, Deseo, Correcto,2, Deseo, Desconcertada, Bromista, Convencida, [2023-12-11 01:29(24.103)],2353, Hombre
+25, poder, Nicolas  Villanueva, Yerko,7, Desanimado, Incorrecto,1, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-11 01:29(28.338)],4235, Hombre
+26, poder, Nicolas  Villanueva, Yerko,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-11 01:29(31.478)],3140, Hombre
+27, poder, Nicolas  Villanueva, Yerko,34, Desconcertado, Incorrecto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-11 01:29(34.960)],3482, Hombre
+28, poder, Nicolas  Villanueva, Yerko,19, Tentativo, Correcto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-11 01:29(38.402)],3441, Hombre
+29, poder, Nicolas  Villanueva, Yerko,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-11 01:29(45.843)],7441, Hombre
+30, poder, Nicolas  Villanueva, Yerko,32, Desconcertado, Incorrecto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-11 01:30(00.702)],14859, Hombre
+31, poder, Nicolas  Villanueva, Yerko,35, Contemplativo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-11 01:30(03.400)],2698, Hombre
+32, poder, Nicolas  Villanueva, Yerko,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-11 01:30(06.395)],2995, Hombre
+33, poder, Nicolas  Villanueva, Yerko,17, Dudoso, Correcto,7, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-11 01:30(10.591)],4195, Hombre
+34, poder, Nicolas  Villanueva, Yerko,13, Tímido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-12-11 01:30(16.219)],5628, Hombre
+35, poder, Nicolas  Villanueva, Yerko,26, Hostil, Correcto,3, Hostil, Alarmado, Tímido, Ansioso, [2023-12-11 01:30(18.651)],2432, Hombre
+36, poder, Nicolas  Villanueva, Yerko,9, Preocupado , Correcto,7, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-11 01:30(21.734)],3083, Hombre
+
