@@ -59,7 +59,6 @@
 </script>
 
 <div class="container">
-  <audio src="/Oficina.m4a" loop autoplay volume={0.1}></audio>
   <div class="column">
     <div class="row">
       {#if params.mode == "vulnerabilidad"}
