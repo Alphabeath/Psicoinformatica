@@ -1,0 +1,829 @@
+Test no, Test Name, Learner, Trainer,Num Eye, Selected, Correctness, Intensity,C1, C2, C3, C4, Date, Answering Time (ms), Sexo
+1, vulnerabilidad, Ana, Giorgio,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-26 22:31(39.309)],25562, Mujer
+2, vulnerabilidad, Ana, Giorgio,6, Fantaseando, Correcto,3, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-26 22:31(56.563)],17253, Mujer
+3, vulnerabilidad, Ana, Giorgio,10, Cauteloso, Correcto,4, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-26 22:32(15.13)],18450, Mujer
+4, vulnerabilidad, Ana, Giorgio,9,  Hostil, Incorrecto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-26 22:32(39.626)],24613, Mujer
+5, vulnerabilidad, Ana, Giorgio,13, Tímido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-26 22:33(12.514)],32888, Mujer
+6, vulnerabilidad, Ana, Giorgio,7, Desanimado, Incorrecto,5, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-26 22:33(22.865)],10351, Mujer
+7, vulnerabilidad, Ana, Giorgio,35, Perplejo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-26 22:33(34.369)],11503, Mujer
+8, vulnerabilidad, Ana, Giorgio,22, Preocupado , Correcto,3, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-26 22:34(03.297)],28927, Mujer
+9, vulnerabilidad, Ana, Giorgio,24, Pensativo , Correcto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-26 22:34(27.552)],24255, Mujer
+10, vulnerabilidad, Ana, Giorgio,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-26 22:34(42.920)],15367, Mujer
+11, vulnerabilidad, Ana, Giorgio,36, Suspicaz, Correcto,7, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-26 22:34(51.168)],8247, Mujer
+12, vulnerabilidad, Ana, Giorgio,14, Acusador, Correcto,4, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-26 22:35(02.776)],11608, Mujer
+13, vulnerabilidad, Ana, Giorgio,16, Reflexivo, Correcto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-26 22:35(09.160)],6384, Mujer
+14, vulnerabilidad, Ana, Giorgio,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-26 22:35(21.504)],12344, Mujer
+15, vulnerabilidad, Ana, Giorgio,28, Interesado, Correcto,4, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-26 22:35(38.304)],16800, Mujer
+16, vulnerabilidad, Ana, Giorgio,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-26 22:35(43.768)],5464, Mujer
+17, vulnerabilidad, Ana, Giorgio,33, Avergonzado, Incorrecto,3, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-26 22:35(57.871)],14103, Mujer
+18, vulnerabilidad, Ana, Giorgio,12, Escéptico, Correcto,3, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-26 22:36(07.255)],9383, Mujer
+19, vulnerabilidad, Ana, Giorgio,19, Sarcástico, Incorrecto,4, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-26 22:36(27.399)],20143, Mujer
+20, vulnerabilidad, Ana, Giorgio,18, Decido, Correcto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-11-26 22:36(35.727)],8328, Mujer
+21, vulnerabilidad, Ana, Giorgio,1, Juguetón, Correcto,4, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-26 22:36(42.199)],6472, Mujer
+22, vulnerabilidad, Ana, Giorgio,21, Fantaseando, Correcto,4, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-26 22:36(52.423)],10224, Mujer
+23, vulnerabilidad, Ana, Giorgio,15, Contemplativo, Correcto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-26 22:36(58.423)],6000, Mujer
+24, vulnerabilidad, Ana, Giorgio,34, Desconcertado, Incorrecto,5, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-26 22:37(06.799)],8376, Mujer
+25, vulnerabilidad, Ana, Giorgio,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-26 22:37(12.743)],5944, Mujer
+26, vulnerabilidad, Ana, Giorgio,26, Hostil, Correcto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-11-26 22:37(19.199)],6456, Mujer
+27, vulnerabilidad, Ana, Giorgio,27, Cauteloso, Correcto,4, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-26 22:37(35.806)],16607, Mujer
+28, vulnerabilidad, Ana, Giorgio,23, Desafiante, Correcto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-26 22:37(41.990)],6183, Mujer
+29, vulnerabilidad, Ana, Giorgio,2, Arrogante , Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-26 22:37(51.118)],9127, Mujer
+30, vulnerabilidad, Ana, Giorgio,30, Coqueto, Correcto,5, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-26 22:37(57.862)],6743, Mujer
+31, vulnerabilidad, Ana, Giorgio,3, Convencida, Incorrecto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-11-26 22:38(05.310)],7447, Mujer
+32, vulnerabilidad, Ana, Giorgio,25, Abatido, Incorrecto,5, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-26 22:38(23.494)],18183, Mujer
+33, vulnerabilidad, Ana, Giorgio,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-26 22:38(39.502)],16007, Mujer
+34, vulnerabilidad, Ana, Giorgio,17, Dudoso, Correcto,6, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-26 22:38(49.974)],10472, Mujer
+35, vulnerabilidad, Ana, Giorgio,32, serio, Correcto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-26 22:39(00.398)],10424, Mujer
+36, vulnerabilidad, Ana, Giorgio,29, Impaciente , Incorrecto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-26 22:39(08.758)],8360, Mujer
+1, poder, Fernanda Cartes, Vanessa Suazo,3, Convencida, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 00:24(29.928)],23566, Mujer
+2, poder, Fernanda Cartes, Vanessa Suazo,20, Amistoso, Correcto,4, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 00:24(44.915)],14982, Mujer
+3, poder, Fernanda Cartes, Vanessa Suazo,12, Escéptico, Correcto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 00:24(53.121)],8200, Mujer
+4, poder, Fernanda Cartes, Vanessa Suazo,1, Aburrido, Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 00:25(07.141)],14016, Mujer
+5, poder, Fernanda Cartes, Vanessa Suazo,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 00:25(14.544)],7401, Mujer
+6, poder, Fernanda Cartes, Vanessa Suazo,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 00:25(29.380)],14832, Mujer
+7, poder, Fernanda Cartes, Vanessa Suazo,7, Inquieto, Correcto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 00:25(53.442)],24060, Mujer
+8, poder, Fernanda Cartes, Vanessa Suazo,29, Impaciente , Incorrecto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 00:26(05.514)],12070, Mujer
+9, poder, Fernanda Cartes, Vanessa Suazo,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 00:26(11.908)],6390, Mujer
+10, poder, Fernanda Cartes, Vanessa Suazo,9, Molesto , Incorrecto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 00:26(39.155)],27244, Mujer
+11, poder, Fernanda Cartes, Vanessa Suazo,22, Preocupado , Correcto,5, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 00:26(49.104)],9945, Mujer
+12, poder, Fernanda Cartes, Vanessa Suazo,34, Desconfiado, Correcto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 00:26(55.679)],6572, Mujer
+13, poder, Fernanda Cartes, Vanessa Suazo,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 00:27(05.480)],9799, Mujer
+14, poder, Fernanda Cartes, Vanessa Suazo,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 00:27(16.427)],10944, Mujer
+15, poder, Fernanda Cartes, Vanessa Suazo,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 00:27(25.399)],8970, Mujer
+16, poder, Fernanda Cartes, Vanessa Suazo,6, Impaciente, Incorrecto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 00:27(37.561)],12159, Mujer
+17, poder, Fernanda Cartes, Vanessa Suazo,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 00:27(44.79)],6514, Mujer
+18, poder, Fernanda Cartes, Vanessa Suazo,16, Comprensivo, Incorrecto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 00:27(51.368)],7286, Mujer
+19, poder, Fernanda Cartes, Vanessa Suazo,27, Cauteloso, Correcto,4, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 00:28(12.39)],20668, Mujer
+20, poder, Fernanda Cartes, Vanessa Suazo,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 00:28(26.55)],14013, Mujer
+21, poder, Fernanda Cartes, Vanessa Suazo,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 00:28(30.949)],4888, Mujer
+22, poder, Fernanda Cartes, Vanessa Suazo,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 00:28(55.619)],24668, Mujer
+23, poder, Fernanda Cartes, Vanessa Suazo,25, Incrédulo, Incorrecto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 00:29(00.823)],5201, Mujer
+24, poder, Fernanda Cartes, Vanessa Suazo,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 00:29(05.886)],5059, Mujer
+25, poder, Fernanda Cartes, Vanessa Suazo,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 00:29(40.843)],34954, Mujer
+26, poder, Fernanda Cartes, Vanessa Suazo,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 00:29(48.466)],7621, Mujer
+27, poder, Fernanda Cartes, Vanessa Suazo,35, Insistente, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 00:29(55.925)],7457, Mujer
+28, poder, Fernanda Cartes, Vanessa Suazo,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 00:30(01.592)],5663, Mujer
+29, poder, Fernanda Cartes, Vanessa Suazo,19, Sarcástico, Incorrecto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 00:30(13.49)],11454, Mujer
+30, poder, Fernanda Cartes, Vanessa Suazo,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 00:30(23.326)],10275, Mujer
+31, poder, Fernanda Cartes, Vanessa Suazo,32, serio, Correcto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 00:30(29.554)],6224, Mujer
+32, poder, Fernanda Cartes, Vanessa Suazo,5, Preocupado , Correcto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 00:30(39.517)],9961, Mujer
+33, poder, Fernanda Cartes, Vanessa Suazo,2, Aterrorizado, Incorrecto,3, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 00:30(44.503)],4980, Mujer
+34, poder, Fernanda Cartes, Vanessa Suazo,11, Arrepentido, Correcto,5, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 00:30(50.694)],6187, Mujer
+35, poder, Fernanda Cartes, Vanessa Suazo,8, Abatido, Correcto,3, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 00:30(58.718)],8021, Mujer
+36, poder, Fernanda Cartes, Vanessa Suazo,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 00:31(05.7)],6284, Mujer
+38, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,11, Aterrorizado, Incorrecto,2, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 00:32(31.279)],14704, Mujer
+39, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,9,  Hostil, Incorrecto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 00:32(42.220)],10937, Mujer
+40, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 00:32(50.17)],7792, Mujer
+41, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 00:32(57.823)],7803, Mujer
+42, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 00:33(06.188)],8359, Mujer
+43, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,3, Convencida, Incorrecto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 00:33(14.737)],8545, Mujer
+44, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,34, Desconfiado, Correcto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 00:33(26.787)],12047, Mujer
+45, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 00:33(33.980)],7189, Mujer
+46, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,27, Cauteloso, Correcto,4, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 00:33(41.438)],7455, Mujer
+47, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,1, Aburrido, Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 00:33(47.634)],6193, Mujer
+48, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,18, Decido, Correcto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 00:33(52.80)],4444, Mujer
+49, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 00:33(57.746)],5662, Mujer
+50, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 00:34(02.907)],5155, Mujer
+51, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 00:34(13.572)],10662, Mujer
+52, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,15, Contemplativo, Correcto,7, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 00:34(18.117)],4541, Mujer
+53, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 00:34(26.626)],8507, Mujer
+54, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,25, Incrédulo, Incorrecto,4, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 00:34(36.647)],10017, Mujer
+55, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,35, Insistente, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 00:34(42.719)],6069, Mujer
+56, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,29, Impaciente , Incorrecto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 00:34(58.466)],15745, Mujer
+57, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,5, Preocupado , Correcto,4, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 00:35(05.315)],6845, Mujer
+58, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,8, Abatido, Correcto,4, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 00:35(11.608)],6289, Mujer
+59, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 00:35(19.235)],7624, Mujer
+60, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 00:35(26.81)],6842, Mujer
+61, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,21, Fantaseando, Correcto,4, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 00:35(40.173)],14087, Mujer
+62, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 00:35(44.184)],4008, Mujer
+63, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 00:35(50.708)],6519, Mujer
+64, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,19, Arrogante, Incorrecto,4, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 00:35(58.496)],7785, Mujer
+65, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 00:36(02.679)],4180, Mujer
+66, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 00:36(10.656)],7973, Mujer
+67, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 00:36(22.157)],11498, Mujer
+68, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,7, Inquieto, Correcto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 00:36(37.107)],14945, Mujer
+69, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,24, Pensativo , Correcto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 00:36(43.999)],6885, Mujer
+70, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 00:36(52.331)],8326, Mujer
+71, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,22, Insistente, Incorrecto,5, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 00:36(59.847)],7512, Mujer
+72, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 00:37(10.3)],10152, Mujer
+73, vulnerabilidad, Fernanda Cartes, Vanessa Suazo,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 00:37(15.452)],5443, Mujer
+1, poder, Vicente R, Giorgio Riffo,16, Reflexivo, Correcto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 10:49(14.763)],17036, Hombre
+2, poder, Vicente R, Giorgio Riffo,11, Arrepentido, Correcto,3, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 10:49(39.438)],24674, Hombre
+3, poder, Vicente R, Giorgio Riffo,6, Impaciente, Incorrecto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 10:49(53.214)],13775, Hombre
+4, poder, Vicente R, Giorgio Riffo,18, Decido, Correcto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 10:50(11.734)],18520, Hombre
+5, poder, Vicente R, Giorgio Riffo,26, Alarmado, Incorrecto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 10:50(24.56)],12321, Hombre
+6, poder, Vicente R, Giorgio Riffo,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 10:50(33.961)],9904, Hombre
+7, poder, Vicente R, Giorgio Riffo,36, Suspicaz, Correcto,5, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 10:50(39.137)],5173, Hombre
+8, poder, Vicente R, Giorgio Riffo,35, Contemplativo, Incorrecto,2, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 10:51(03.229)],24091, Hombre
+9, poder, Vicente R, Giorgio Riffo,24, Pensativo , Correcto,3, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 10:51(09.935)],6706, Hombre
+10, poder, Vicente R, Giorgio Riffo,21, Avergonzado, Incorrecto,2, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 10:51(36.186)],26251, Hombre
+11, poder, Vicente R, Giorgio Riffo,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 10:51(40.182)],3996, Hombre
+12, poder, Vicente R, Giorgio Riffo,31, Seguro, Correcto,5, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 10:51(48.265)],8083, Hombre
+13, poder, Vicente R, Giorgio Riffo,30, Coqueto, Correcto,5, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 10:51(53.339)],5073, Hombre
+14, poder, Vicente R, Giorgio Riffo,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 10:52(07.653)],14314, Hombre
+15, poder, Vicente R, Giorgio Riffo,1, Juguetón, Correcto,2, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 10:52(21.931)],14278, Hombre
+16, poder, Vicente R, Giorgio Riffo,17, Dudoso, Correcto,1, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 10:52(38.543)],16612, Hombre
+17, poder, Vicente R, Giorgio Riffo,10, Insistente, Incorrecto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 10:52(51.879)],13336, Hombre
+18, poder, Vicente R, Giorgio Riffo,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 10:52(58.347)],6468, Hombre
+19, poder, Vicente R, Giorgio Riffo,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 10:53(02.711)],4363, Hombre
+20, poder, Vicente R, Giorgio Riffo,22, Preocupado , Correcto,2, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 10:53(24.168)],21457, Hombre
+21, poder, Vicente R, Giorgio Riffo,29, Reflexivo, Correcto,4, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 10:53(33.509)],9341, Hombre
+22, poder, Vicente R, Giorgio Riffo,3, Convencida, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 10:53(58.708)],25199, Hombre
+23, poder, Vicente R, Giorgio Riffo,7, Inquieto, Correcto,5, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 10:54(04.804)],6093, Hombre
+24, poder, Vicente R, Giorgio Riffo,20, Amistoso, Correcto,3, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 10:54(10.852)],6048, Hombre
+25, poder, Vicente R, Giorgio Riffo,25, Incrédulo, Incorrecto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 10:54(16.641)],5788, Hombre
+26, poder, Vicente R, Giorgio Riffo,32, serio, Correcto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 10:54(24.583)],7942, Hombre
+27, poder, Vicente R, Giorgio Riffo,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 10:54(31.522)],6939, Hombre
+28, poder, Vicente R, Giorgio Riffo,27, Cauteloso, Correcto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 10:54(38.433)],6911, Hombre
+29, poder, Vicente R, Giorgio Riffo,13, Tímido, Incorrecto,4, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 10:54(46.475)],8042, Hombre
+30, poder, Vicente R, Giorgio Riffo,34, Desconfiado, Correcto,2, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 10:55(09.90)],22614, Hombre
+31, poder, Vicente R, Giorgio Riffo,9, Preocupado , Correcto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 10:55(15.606)],6515, Hombre
+32, poder, Vicente R, Giorgio Riffo,19, Tentativo, Correcto,1, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 10:55(37.773)],22166, Hombre
+33, poder, Vicente R, Giorgio Riffo,8, Abatido, Correcto,5, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 10:55(47.605)],9831, Hombre
+34, poder, Vicente R, Giorgio Riffo,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 10:55(54.724)],7119, Hombre
+35, poder, Vicente R, Giorgio Riffo,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 10:55(59.881)],5156, Hombre
+36, poder, Vicente R, Giorgio Riffo,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 10:56(06.612)],6730, Hombre
+1, poder, Jeremy , Giorgio ,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 10:55(24.528)],35409, Hombre
+2, poder, Jeremy , Giorgio ,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 10:55(47.75)],22535, Hombre
+3, poder, Jeremy , Giorgio ,22, Insistente, Incorrecto,4, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 10:56(07.663)],20587, Hombre
+4, poder, Jeremy , Giorgio ,8, Abatido, Correcto,7, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 10:56(14.300)],6636, Hombre
+5, poder, Jeremy , Giorgio ,24, Emocionado, Incorrecto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 10:56(22.525)],8224, Hombre
+6, poder, Jeremy , Giorgio ,6, Fantaseando, Correcto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 10:56(45.271)],22745, Hombre
+7, poder, Jeremy , Giorgio ,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 10:56(54.966)],9693, Hombre
+8, poder, Jeremy , Giorgio ,16, Irritado  , Incorrecto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 10:57(08.444)],13475, Hombre
+9, poder, Jeremy , Giorgio ,17, Dudoso, Correcto,4, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 10:57(17.909)],9464, Hombre
+10, poder, Jeremy , Giorgio ,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 10:57(25.658)],7746, Hombre
+11, poder, Jeremy , Giorgio ,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 10:57(35.59)],9400, Hombre
+12, poder, Jeremy , Giorgio ,32, Alarmado, Incorrecto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 10:57(41.353)],6291, Hombre
+13, poder, Jeremy , Giorgio ,13, Tímido, Incorrecto,6, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 10:57(46.462)],5108, Hombre
+14, poder, Jeremy , Giorgio ,10, Cauteloso, Correcto,7, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 10:57(51.222)],4757, Hombre
+15, poder, Jeremy , Giorgio ,27, Cauteloso, Correcto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 10:58(00.969)],9745, Hombre
+16, poder, Jeremy , Giorgio ,3, Convencida, Incorrecto,7, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 10:58(08.57)],7083, Hombre
+17, poder, Jeremy , Giorgio ,1, Aburrido, Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 10:58(24.69)],16007, Hombre
+18, poder, Jeremy , Giorgio ,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 10:58(30.14)],5944, Hombre
+19, poder, Jeremy , Giorgio ,29, Reflexivo, Correcto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 10:58(36.599)],6584, Hombre
+20, poder, Jeremy , Giorgio ,7, Desanimado, Incorrecto,7, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 10:58(46.424)],9824, Hombre
+21, poder, Jeremy , Giorgio ,11, Aterrorizado, Incorrecto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 10:58(50.843)],4418, Hombre
+22, poder, Jeremy , Giorgio ,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 10:58(54.252)],3408, Hombre
+23, poder, Jeremy , Giorgio ,2, Aterrorizado, Incorrecto,7, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 10:58(58.643)],4390, Hombre
+24, poder, Jeremy , Giorgio ,19, Tentativo, Correcto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 10:59(02.916)],4270, Hombre
+25, poder, Jeremy , Giorgio ,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 10:59(06.834)],3914, Hombre
+26, poder, Jeremy , Giorgio ,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 10:59(10.217)],3378, Hombre
+27, poder, Jeremy , Giorgio ,21, Fantaseando, Correcto,7, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 10:59(14.99)],3881, Hombre
+28, poder, Jeremy , Giorgio ,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 10:59(18.228)],4124, Hombre
+29, poder, Jeremy , Giorgio ,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 10:59(21.745)],3516, Hombre
+30, poder, Jeremy , Giorgio ,4, Bromista  , Incorrecto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 10:59(27.269)],5522, Hombre
+31, poder, Jeremy , Giorgio ,23, Satisfecho, Incorrecto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 10:59(51.764)],24491, Hombre
+32, poder, Jeremy , Giorgio ,9, Preocupado , Correcto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 11:00(02.352)],10578, Hombre
+33, poder, Jeremy , Giorgio ,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 11:00(06.699)],4343, Hombre
+34, poder, Jeremy , Giorgio ,34, Desconfiado, Correcto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 11:00(09.864)],3160, Hombre
+35, poder, Jeremy , Giorgio ,35, Contemplativo, Incorrecto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 11:00(13.503)],3637, Hombre
+36, poder, Jeremy , Giorgio ,28, Satisfecho, Incorrecto,7, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 11:00(17.695)],4191, Hombre
+1, poder, Felipe, Giorgio,17, Dudoso, Correcto,4, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 11:28(35.702)],26659, Hombre
+2, poder, Felipe, Giorgio,19, Agradecido, Incorrecto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 11:29(40.184)],64482, Hombre
+3, poder, Felipe, Giorgio,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 11:30(11.202)],31017, Hombre
+4, poder, Felipe, Giorgio,36, Suspicaz, Correcto,5, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 11:30(30.60)],18858, Hombre
+5, poder, Felipe, Giorgio,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 11:30(41.308)],11242, Hombre
+6, poder, Felipe, Giorgio,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 11:31(06.672)],25363, Hombre
+7, poder, Felipe, Giorgio,10, Cauteloso, Correcto,4, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 11:31(16.124)],9451, Hombre
+8, poder, Felipe, Giorgio,4, Entretenido, Incorrecto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 11:31(21.200)],5075, Hombre
+9, poder, Felipe, Giorgio,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 11:31(29.572)],8371, Hombre
+10, poder, Felipe, Giorgio,30, Coqueto, Correcto,5, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 11:31(35.952)],6375, Hombre
+11, poder, Felipe, Giorgio,7, Inquieto, Correcto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 11:31(45.576)],9623, Hombre
+12, poder, Felipe, Giorgio,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 11:31(59.948)],14371, Hombre
+13, poder, Felipe, Giorgio,26, Hostil, Correcto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 11:32(05.408)],5459, Hombre
+14, poder, Felipe, Giorgio,25, Incrédulo, Incorrecto,5, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 11:32(17.436)],12027, Hombre
+15, poder, Felipe, Giorgio,34, Desconfiado, Correcto,6, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 11:32(26.564)],9127, Hombre
+16, poder, Felipe, Giorgio,18, Decido, Correcto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 11:32(34.88)],7523, Hombre
+17, poder, Felipe, Giorgio,21, Fantaseando, Correcto,6, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 11:32(46.544)],12455, Hombre
+18, poder, Felipe, Giorgio,9, Molesto , Incorrecto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 11:32(59.332)],12787, Hombre
+19, poder, Felipe, Giorgio,6, Fantaseando, Correcto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 11:33(05.648)],6315, Hombre
+20, poder, Felipe, Giorgio,2, Aterrorizado, Incorrecto,7, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 11:33(10.792)],5143, Hombre
+21, poder, Felipe, Giorgio,1, Reconfortante , Incorrecto,6, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 11:33(23.520)],12727, Hombre
+22, poder, Felipe, Giorgio,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 11:33(29.332)],5811, Hombre
+23, poder, Felipe, Giorgio,29, Reflexivo, Correcto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 11:33(35.156)],5823, Hombre
+24, poder, Felipe, Giorgio,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 11:33(42.772)],7615, Hombre
+25, poder, Felipe, Giorgio,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 11:33(55.912)],13139, Hombre
+26, poder, Felipe, Giorgio,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 11:34(13.644)],17731, Hombre
+27, poder, Felipe, Giorgio,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 11:34(19.464)],5819, Hombre
+28, poder, Felipe, Giorgio,24, Hostil, Incorrecto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 11:34(39.412)],19947, Hombre
+29, poder, Felipe, Giorgio,35, Perplejo, Incorrecto,4, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 11:34(51.92)],11679, Hombre
+30, poder, Felipe, Giorgio,13, Anticipando, Correcto,7, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 11:35(13.80)],21987, Hombre
+31, poder, Felipe, Giorgio,5, Sarcástico, Incorrecto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 11:35(17.100)],4019, Hombre
+32, poder, Felipe, Giorgio,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 11:35(27.136)],10035, Hombre
+33, poder, Felipe, Giorgio,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 11:35(34.72)],6935, Hombre
+34, poder, Felipe, Giorgio,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 11:35(39.644)],5571, Hombre
+35, poder, Felipe, Giorgio,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 11:35(47.664)],8019, Hombre
+36, poder, Felipe, Giorgio,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 11:35(55.244)],7579, Hombre
+1, vulnerabilidad, Esteban, Giorgio,14, Irritado, Incorrecto,3, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 11:35(22.937)],47021, Hombre
+2, vulnerabilidad, Esteban, Giorgio,3, Desconcertada, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 11:36(16.253)],53316, Hombre
+3, vulnerabilidad, Esteban, Giorgio,2, Arrogante , Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 11:36(26.275)],10022, Hombre
+4, vulnerabilidad, Esteban, Giorgio,8, Abatido, Correcto,3, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 11:37(00.164)],33889, Hombre
+5, vulnerabilidad, Esteban, Giorgio,16, Comprensivo, Incorrecto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 11:37(09.777)],9612, Hombre
+6, vulnerabilidad, Esteban, Giorgio,23, Desafiante, Correcto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 11:37(57.366)],47588, Hombre
+7, vulnerabilidad, Esteban, Giorgio,9, Preocupado , Correcto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 11:38(12.144)],14777, Hombre
+8, vulnerabilidad, Esteban, Giorgio,24, Pensativo , Correcto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 11:38(38.943)],26798, Hombre
+9, vulnerabilidad, Esteban, Giorgio,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 11:39(21.492)],42548, Hombre
+10, vulnerabilidad, Esteban, Giorgio,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 11:39(32.587)],11095, Hombre
+11, vulnerabilidad, Esteban, Giorgio,31, Seguro, Correcto,5, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 11:39(43.82)],10491, Hombre
+12, vulnerabilidad, Esteban, Giorgio,6, Impaciente, Incorrecto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 11:40(54.945)],71862, Hombre
+13, vulnerabilidad, Esteban, Giorgio,27, Arrogante, Incorrecto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 11:41(04.203)],9257, Hombre
+14, vulnerabilidad, Esteban, Giorgio,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 11:41(44.341)],40137, Hombre
+15, vulnerabilidad, Esteban, Giorgio,35, Nervioso, Correcto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 11:41(51.605)],7263, Hombre
+16, vulnerabilidad, Esteban, Giorgio,32, serio, Correcto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 11:42(37.350)],45744, Hombre
+17, vulnerabilidad, Esteban, Giorgio,11, Aterrorizado, Incorrecto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 11:43(39.345)],61995, Hombre
+18, vulnerabilidad, Esteban, Giorgio,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 11:43(50.960)],11614, Hombre
+19, vulnerabilidad, Esteban, Giorgio,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 11:43(59.756)],8795, Hombre
+20, vulnerabilidad, Esteban, Giorgio,29, Irritado, Incorrecto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 11:44(08.790)],9033, Hombre
+21, vulnerabilidad, Esteban, Giorgio,19, Arrogante, Incorrecto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 11:44(20.803)],12012, Hombre
+22, vulnerabilidad, Esteban, Giorgio,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 11:45(00.970)],40167, Hombre
+23, vulnerabilidad, Esteban, Giorgio,4, Relajado, Incorrecto,4,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 11:45(37.502)],36531, Hombre
+24, vulnerabilidad, Esteban, Giorgio,10, Insistente, Incorrecto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 11:45(53.759)],16257, Hombre
+25, vulnerabilidad, Esteban, Giorgio,13, Decidido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 11:46(00.990)],7231, Hombre
+26, vulnerabilidad, Esteban, Giorgio,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 11:46(10.303)],9313, Hombre
+27, vulnerabilidad, Esteban, Giorgio,1, Reconfortante , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 11:46(16.941)],6638, Hombre
+28, vulnerabilidad, Esteban, Giorgio,7, Inquieto, Correcto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 11:47(09.32)],52090, Hombre
+29, vulnerabilidad, Esteban, Giorgio,18, Decido, Correcto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 11:47(18.222)],9189, Hombre
+30, vulnerabilidad, Esteban, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 11:47(24.727)],6505, Hombre
+31, vulnerabilidad, Esteban, Giorgio,20, Amistoso, Correcto,4, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 11:47(31.477)],6749, Hombre
+32, vulnerabilidad, Esteban, Giorgio,21, Fantaseando, Correcto,3, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 11:47(47.29)],15551, Hombre
+33, vulnerabilidad, Esteban, Giorgio,22, Preocupado , Correcto,3, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 11:47(55.483)],8454, Hombre
+34, vulnerabilidad, Esteban, Giorgio,15, Entretenido, Incorrecto,2, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 11:48(10.382)],14898, Hombre
+35, vulnerabilidad, Esteban, Giorgio,34, Desconfiado, Correcto,3, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 11:48(25.260)],14877, Hombre
+36, vulnerabilidad, Esteban, Giorgio,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 11:48(32.24)],6764, Hombre
+1, poder, Paulo, Giorgio,9, Preocupado , Correcto,3, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 11:42(18.746)],61491, Hombre
+2, poder, Paulo, Giorgio,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 11:42(28.193)],9446, Hombre
+3, poder, Paulo, Giorgio,15, Contemplativo, Correcto,7, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 11:42(38.427)],10234, Hombre
+4, poder, Paulo, Giorgio,33, Culpable, Incorrecto,3, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 11:43(00.48)],21621, Hombre
+5, poder, Paulo, Giorgio,12, Escéptico, Correcto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 11:43(10.347)],10299, Hombre
+6, poder, Paulo, Giorgio,13, Tímido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 11:43(27.41)],16694, Hombre
+7, poder, Paulo, Giorgio,31, Seguro, Correcto,5, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 11:43(39.691)],12647, Hombre
+8, poder, Paulo, Giorgio,2, Arrogante , Incorrecto,1, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 11:44(02.869)],23175, Hombre
+9, poder, Paulo, Giorgio,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 11:44(10.667)],7797, Hombre
+10, poder, Paulo, Giorgio,25, Interesado, Correcto,4, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 11:44(18.438)],7771, Hombre
+11, poder, Paulo, Giorgio,3, Convencida, Incorrecto,3, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 11:44(47.737)],29299, Hombre
+12, poder, Paulo, Giorgio,35, Nervioso, Correcto,2, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 11:44(54.366)],6628, Hombre
+13, poder, Paulo, Giorgio,10, Cauteloso, Correcto,3, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 11:45(03.28)],8662, Hombre
+14, poder, Paulo, Giorgio,16, Reflexivo, Correcto,4, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 11:45(12.152)],9124, Hombre
+15, poder, Paulo, Giorgio,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 11:45(22.238)],10085, Hombre
+16, poder, Paulo, Giorgio,5, Preocupado , Correcto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 11:45(27.327)],5088, Hombre
+17, poder, Paulo, Giorgio,24, Pensativo , Correcto,2, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 11:45(35.225)],7898, Hombre
+18, poder, Paulo, Giorgio,23, Desafiante, Correcto,3, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 11:47(01.759)],86533, Hombre
+19, poder, Paulo, Giorgio,29, Reflexivo, Correcto,3, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 11:47(06.528)],4769, Hombre
+20, poder, Paulo, Giorgio,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 11:47(14.304)],7775, Hombre
+21, poder, Paulo, Giorgio,8, Abatido, Correcto,4, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 11:48(38.476)],84171, Hombre
+22, poder, Paulo, Giorgio,19, Tentativo, Correcto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 11:48(45.103)],6627, Hombre
+23, poder, Paulo, Giorgio,17, Dudoso, Correcto,4, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 11:48(50.505)],5402, Hombre
+24, poder, Paulo, Giorgio,4,  Insistente, Correcto,4,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 11:48(59.526)],9020, Hombre
+25, poder, Paulo, Giorgio,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 11:49(07.376)],7850, Hombre
+26, poder, Paulo, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 11:49(15.911)],8534, Hombre
+27, poder, Paulo, Giorgio,28, Satisfecho, Incorrecto,4, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 11:49(20.272)],4360, Hombre
+28, poder, Paulo, Giorgio,1, Reconfortante , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 11:49(31.44)],10772, Hombre
+29, poder, Paulo, Giorgio,7, Inquieto, Correcto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 11:49(38.567)],7523, Hombre
+30, poder, Paulo, Giorgio,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 11:49(49.139)],10572, Hombre
+31, poder, Paulo, Giorgio,27, Cauteloso, Correcto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 11:49(54.695)],5555, Hombre
+32, poder, Paulo, Giorgio,11, Arrepentido, Correcto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 11:50(07.579)],12883, Hombre
+33, poder, Paulo, Giorgio,34, Desconfiado, Correcto,6, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 11:50(13.852)],6273, Hombre
+34, poder, Paulo, Giorgio,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 11:50(21.320)],7468, Hombre
+35, poder, Paulo, Giorgio,18, Decido, Correcto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 11:50(27.738)],6417, Hombre
+36, poder, Paulo, Giorgio,26, Alarmado, Incorrecto,3, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 11:50(35.964)],8225, Hombre
+1, poder, Ivonne flores roa, Giorgio ,34, Desconcertado, Incorrecto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 12:19(32.456)],25698, Mujer
+2, poder, Ivonne flores roa, Giorgio ,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 12:20(10.81)],37625, Mujer
+3, poder, Ivonne flores roa, Giorgio ,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 12:20(29.882)],19799, Mujer
+4, poder, Ivonne flores roa, Giorgio ,4, Relajado, Incorrecto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 12:20(47.264)],17380, Mujer
+5, poder, Ivonne flores roa, Giorgio ,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 12:20(58.777)],11512, Mujer
+6, poder, Ivonne flores roa, Giorgio ,22, Insistente, Incorrecto,4, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 12:21(39.584)],40806, Mujer
+7, poder, Ivonne flores roa, Giorgio ,35, Nervioso, Correcto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 12:21(46.388)],6804, Mujer
+8, poder, Ivonne flores roa, Giorgio ,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 12:21(53.262)],6873, Mujer
+9, poder, Ivonne flores roa, Giorgio ,2, Irritado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 12:22(17.772)],24510, Mujer
+10, poder, Ivonne flores roa, Giorgio ,1, Juguetón, Correcto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 12:22(57.867)],40095, Mujer
+11, poder, Ivonne flores roa, Giorgio ,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 12:23(04.62)],6194, Mujer
+12, poder, Ivonne flores roa, Giorgio ,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 12:23(18.869)],14806, Mujer
+13, poder, Ivonne flores roa, Giorgio ,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 12:23(53.607)],34737, Mujer
+14, poder, Ivonne flores roa, Giorgio ,31, Bromista, Incorrecto,1, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 12:24(05.501)],11893, Mujer
+15, poder, Ivonne flores roa, Giorgio ,21, Aterrado, Incorrecto,1, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 12:24(10.625)],5123, Mujer
+16, poder, Ivonne flores roa, Giorgio ,30, Coqueto, Correcto,6, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 12:24(14.307)],3681, Mujer
+17, poder, Ivonne flores roa, Giorgio ,20, Culpable, Incorrecto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 12:24(20.531)],6224, Mujer
+18, poder, Ivonne flores roa, Giorgio ,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 12:24(47.481)],26949, Mujer
+19, poder, Ivonne flores roa, Giorgio ,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 12:24(49.505)],2023, Mujer
+20, poder, Ivonne flores roa, Giorgio ,5, Amistoso, Incorrecto,2, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 12:24(51.456)],1950, Mujer
+21, poder, Ivonne flores roa, Giorgio ,7, Amistoso, Incorrecto,7, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 12:24(54.944)],3487, Mujer
+22, poder, Ivonne flores roa, Giorgio ,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 12:25(06.777)],11833, Mujer
+23, poder, Ivonne flores roa, Giorgio ,29, Irritado, Incorrecto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 12:25(11.703)],4926, Mujer
+24, poder, Ivonne flores roa, Giorgio ,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 12:25(18.111)],6407, Mujer
+25, poder, Ivonne flores roa, Giorgio ,27, Arrogante, Incorrecto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 12:25(22.278)],4166, Mujer
+26, poder, Ivonne flores roa, Giorgio ,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 12:25(25.803)],3524, Mujer
+27, poder, Ivonne flores roa, Giorgio ,19, Agradecido, Incorrecto,7, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 12:25(29.85)],3281, Mujer
+28, poder, Ivonne flores roa, Giorgio ,23, Curioso, Incorrecto,4, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 12:25(35.335)],6249, Mujer
+29, poder, Ivonne flores roa, Giorgio ,28, Cariñoso, Incorrecto,4, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 12:25(37.254)],1918, Mujer
+30, poder, Ivonne flores roa, Giorgio ,32, Avergonzado, Incorrecto,4, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 12:25(38.627)],1372, Mujer
+31, poder, Ivonne flores roa, Giorgio ,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 12:25(39.757)],1130, Mujer
+32, poder, Ivonne flores roa, Giorgio ,9,  Hostil, Incorrecto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 12:25(40.705)],948, Mujer
+33, poder, Ivonne flores roa, Giorgio ,15, Desconcertado, Incorrecto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 12:25(41.639)],933, Mujer
+34, poder, Ivonne flores roa, Giorgio ,13, Tímido, Incorrecto,3, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 12:25(44.702)],3062, Mujer
+35, poder, Ivonne flores roa, Giorgio ,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 12:25(56.407)],11704, Mujer
+36, poder, Ivonne flores roa, Giorgio ,16, Irritado  , Incorrecto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 12:26(00.676)],4269, Mujer
+1, vulnerabilidad, Jorge, Giorgio,2, Aterrorizado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 13:16(57.57)],12616, Hombre
+2, vulnerabilidad, Jorge, Giorgio,35, Contemplativo, Incorrecto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 13:17(02.847)],5790, Hombre
+3, vulnerabilidad, Jorge, Giorgio,34, Desconfiado, Correcto,5, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 13:17(12.732)],9884, Hombre
+4, vulnerabilidad, Jorge, Giorgio,1, Juguetón, Correcto,6, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 13:17(17.526)],4794, Hombre
+5, vulnerabilidad, Jorge, Giorgio,13, Anticipando, Correcto,6, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 13:17(25.11)],7485, Hombre
+6, vulnerabilidad, Jorge, Giorgio,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 13:17(30.441)],5430, Hombre
+7, vulnerabilidad, Jorge, Giorgio,11, Entretenido, Incorrecto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 13:17(36.141)],5700, Hombre
+8, vulnerabilidad, Jorge, Giorgio,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 13:17(40.798)],4657, Hombre
+9, vulnerabilidad, Jorge, Giorgio,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 13:17(45.119)],4320, Hombre
+10, vulnerabilidad, Jorge, Giorgio,36, Suspicaz, Correcto,7, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 13:17(50.295)],5176, Hombre
+11, vulnerabilidad, Jorge, Giorgio,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 13:17(55.674)],5379, Hombre
+12, vulnerabilidad, Jorge, Giorgio,15, Contemplativo, Correcto,7, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 13:17(59.362)],3688, Hombre
+13, vulnerabilidad, Jorge, Giorgio,8, Abatido, Correcto,5, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 13:18(04.717)],5354, Hombre
+14, vulnerabilidad, Jorge, Giorgio,33, Culpable, Incorrecto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 13:18(09.787)],5070, Hombre
+15, vulnerabilidad, Jorge, Giorgio,12, Indiferente, Incorrecto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 13:18(14.318)],4531, Hombre
+16, vulnerabilidad, Jorge, Giorgio,7, Inquieto, Correcto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 13:18(19.801)],5483, Hombre
+17, vulnerabilidad, Jorge, Giorgio,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 13:18(24.871)],5070, Hombre
+18, vulnerabilidad, Jorge, Giorgio,9, Preocupado , Correcto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 13:18(30.998)],6127, Hombre
+19, vulnerabilidad, Jorge, Giorgio,6, Fantaseando, Correcto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 13:18(34.554)],3556, Hombre
+20, vulnerabilidad, Jorge, Giorgio,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 13:18(39.278)],4724, Hombre
+21, vulnerabilidad, Jorge, Giorgio,24, Pensativo , Correcto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 13:18(43.28)],3749, Hombre
+22, vulnerabilidad, Jorge, Giorgio,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 13:18(48.654)],5626, Hombre
+23, vulnerabilidad, Jorge, Giorgio,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 13:18(55.359)],6705, Hombre
+24, vulnerabilidad, Jorge, Giorgio,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 13:19(04.524)],9165, Hombre
+25, vulnerabilidad, Jorge, Giorgio,19, Tentativo, Correcto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 13:19(08.979)],4455, Hombre
+26, vulnerabilidad, Jorge, Giorgio,29, Reflexivo, Correcto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 13:19(12.444)],3465, Hombre
+27, vulnerabilidad, Jorge, Giorgio,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 13:19(17.950)],5506, Hombre
+28, vulnerabilidad, Jorge, Giorgio,32, Desconcertado, Incorrecto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 13:19(24.925)],6975, Hombre
+29, vulnerabilidad, Jorge, Giorgio,18, Decido, Correcto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 13:19(28.983)],4058, Hombre
+30, vulnerabilidad, Jorge, Giorgio,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 13:19(33.191)],4208, Hombre
+31, vulnerabilidad, Jorge, Giorgio,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 13:19(37.31)],3840, Hombre
+32, vulnerabilidad, Jorge, Giorgio,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 13:19(40.759)],3727, Hombre
+33, vulnerabilidad, Jorge, Giorgio,30, Coqueto, Correcto,6, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 13:19(45.63)],4304, Hombre
+34, vulnerabilidad, Jorge, Giorgio,21, Fantaseando, Correcto,6, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 13:19(49.496)],4433, Hombre
+35, vulnerabilidad, Jorge, Giorgio,17, Dudoso, Correcto,4, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 13:19(55.152)],5655, Hombre
+36, vulnerabilidad, Jorge, Giorgio,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 13:20(05.916)],10764, Hombre
+1, poder, Oliver, Giorgio,9, Molesto , Incorrecto,2, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 13:21(40.284)],10562, Hombre
+2, poder, Oliver, Giorgio,35, Contemplativo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 13:21(47.940)],7656, Hombre
+3, poder, Oliver, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 13:22(11.89)],23149, Hombre
+4, poder, Oliver, Giorgio,1, Juguetón, Correcto,6, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 13:22(16.532)],5442, Hombre
+5, poder, Oliver, Giorgio,6, Fantaseando, Correcto,3, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 13:22(21.189)],4657, Hombre
+6, poder, Oliver, Giorgio,33, Preocupado , Correcto,7, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 13:22(24.434)],3245, Hombre
+7, poder, Oliver, Giorgio,34, Desconfiado, Correcto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 13:22(29.824)],5390, Hombre
+8, poder, Oliver, Giorgio,2, Irritado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 13:22(51.540)],21716, Hombre
+9, poder, Oliver, Giorgio,5, Irritado, Incorrecto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 13:22(57.871)],6330, Hombre
+10, poder, Oliver, Giorgio,12, Indiferente, Incorrecto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 13:23(03.100)],5229, Hombre
+11, poder, Oliver, Giorgio,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 13:23(09.541)],6441, Hombre
+12, poder, Oliver, Giorgio,7, Inquieto, Correcto,3, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 13:23(15.15)],5474, Hombre
+13, poder, Oliver, Giorgio,8, Abatido, Correcto,4, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 13:23(20.914)],5899, Hombre
+14, poder, Oliver, Giorgio,10, Cauteloso, Correcto,4, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 13:23(34.337)],13423, Hombre
+15, poder, Oliver, Giorgio,11, Entretenido, Incorrecto,5, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 13:23(44.207)],9870, Hombre
+16, poder, Oliver, Giorgio,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 13:23(48.285)],4078, Hombre
+17, poder, Oliver, Giorgio,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 13:23(54.650)],6365, Hombre
+18, poder, Oliver, Giorgio,15, Contemplativo, Correcto,2, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 13:23(59.872)],5222, Hombre
+19, poder, Oliver, Giorgio,16, Reflexivo, Correcto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 13:24(03.613)],3741, Hombre
+20, poder, Oliver, Giorgio,3, Convencida, Incorrecto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 13:24(16.436)],12823, Hombre
+21, poder, Oliver, Giorgio,17, Dudoso, Correcto,2, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 13:24(30.169)],13733, Hombre
+22, poder, Oliver, Giorgio,20, Amistoso, Correcto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 13:24(34.376)],4207, Hombre
+23, poder, Oliver, Giorgio,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 13:24(39.861)],5485, Hombre
+24, poder, Oliver, Giorgio,19, Agradecido, Incorrecto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 13:24(44.141)],4280, Hombre
+25, poder, Oliver, Giorgio,23, Satisfecho, Incorrecto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 13:24(49.304)],5163, Hombre
+26, poder, Oliver, Giorgio,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 13:24(53.942)],4638, Hombre
+27, poder, Oliver, Giorgio,21, Fantaseando, Correcto,3, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 13:25(30.926)],36983, Hombre
+28, poder, Oliver, Giorgio,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 13:25(36.99)],5173, Hombre
+29, poder, Oliver, Giorgio,27, Cauteloso, Correcto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 13:25(41.838)],5739, Hombre
+30, poder, Oliver, Giorgio,29, Reflexivo, Correcto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 13:25(46.778)],4940, Hombre
+31, poder, Oliver, Giorgio,25, Incrédulo, Incorrecto,7, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 13:25(59.551)],12772, Hombre
+32, poder, Oliver, Giorgio,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 13:26(03.896)],4344, Hombre
+33, poder, Oliver, Giorgio,26, Hostil, Correcto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 13:26(34.967)],31071, Hombre
+34, poder, Oliver, Giorgio,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 13:26(42.404)],7436, Hombre
+35, poder, Oliver, Giorgio,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 13:26(47.61)],4656, Hombre
+36, poder, Oliver, Giorgio,32, Alarmado, Incorrecto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 13:26(50.450)],3388, Hombre
+1, poder, Jorge, Giorgio,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 13:56(36.3)],18706, Hombre
+2, poder, Jorge, Giorgio,29, Irritado, Incorrecto,4, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 13:56(57.214)],21208, Hombre
+3, poder, Jorge, Giorgio,36, Suspicaz, Correcto,7, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 13:57(27.423)],30208, Hombre
+4, poder, Jorge, Giorgio,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 13:57(40.812)],13387, Hombre
+5, poder, Jorge, Giorgio,35, Nervioso, Correcto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 13:57(50.684)],9870, Hombre
+6, poder, Jorge, Giorgio,4,  Insistente, Correcto,2,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 13:58(35.777)],45091, Hombre
+7, poder, Jorge, Giorgio,3, Deseo, Correcto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 13:58(44.634)],8856, Hombre
+8, poder, Jorge, Giorgio,34, Desconfiado, Correcto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 13:58(55.453)],10817, Hombre
+9, poder, Jorge, Giorgio,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 13:59(15.248)],19793, Hombre
+10, poder, Jorge, Giorgio,27, Cauteloso, Correcto,3, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 14:00(26.400)],71151, Hombre
+11, poder, Jorge, Giorgio,31, Seguro, Correcto,3, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 14:00(34.737)],8337, Hombre
+12, poder, Jorge, Giorgio,18, aburrido, Incorrecto,3, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 14:00(41.981)],7242, Hombre
+13, poder, Jorge, Giorgio,21, Fantaseando, Correcto,3, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 14:00(47.813)],5831, Hombre
+14, poder, Jorge, Giorgio,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 14:00(59.506)],11691, Hombre
+15, poder, Jorge, Giorgio,26, Alarmado, Incorrecto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 14:01(09.74)],9567, Hombre
+16, poder, Jorge, Giorgio,13, Tímido, Incorrecto,3, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 14:01(21.249)],12173, Hombre
+17, poder, Jorge, Giorgio,22, Preocupado , Correcto,4, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 14:01(29.916)],8666, Hombre
+18, poder, Jorge, Giorgio,28, Interesado, Correcto,7, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 14:01(38.239)],8321, Hombre
+19, poder, Jorge, Giorgio,7, Amistoso, Incorrecto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 14:01(45.62)],6821, Hombre
+20, poder, Jorge, Giorgio,2, Aterrorizado, Incorrecto,3, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 14:01(53.258)],8195, Hombre
+21, poder, Jorge, Giorgio,19, Tentativo, Correcto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 14:02(14.69)],20809, Hombre
+22, poder, Jorge, Giorgio,11, Arrepentido, Correcto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 14:02(21.576)],7505, Hombre
+23, poder, Jorge, Giorgio,12, Escéptico, Correcto,5, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 14:02(32.857)],11280, Hombre
+24, poder, Jorge, Giorgio,1, Reconfortante , Incorrecto,3, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 14:02(42.600)],9742, Hombre
+25, poder, Jorge, Giorgio,20, Dominante, Incorrecto,3, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 14:03(03.151)],20550, Hombre
+26, poder, Jorge, Giorgio,15, Contemplativo, Correcto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 14:03(11.601)],8449, Hombre
+27, poder, Jorge, Giorgio,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 14:03(21.347)],9745, Hombre
+28, poder, Jorge, Giorgio,32, Alarmado, Incorrecto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 14:03(36.323)],14974, Hombre
+29, poder, Jorge, Giorgio,25, Incrédulo, Incorrecto,4, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 14:03(56.245)],19921, Hombre
+30, poder, Jorge, Giorgio,6, Alarmado, Incorrecto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 14:04(08.413)],12167, Hombre
+31, poder, Jorge, Giorgio,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 14:04(18.665)],10251, Hombre
+32, poder, Jorge, Giorgio,9, Preocupado , Correcto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 14:04(28.484)],9818, Hombre
+33, poder, Jorge, Giorgio,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 14:04(37.738)],9253, Hombre
+34, poder, Jorge, Giorgio,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 14:04(43.306)],5566, Hombre
+35, poder, Jorge, Giorgio,16, Comprensivo, Incorrecto,3, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 14:04(54.244)],10937, Hombre
+36, poder, Jorge, Giorgio,24, Pensativo , Correcto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 14:05(03.368)],9122, Hombre
+1, poder, jassiell, giorgio,15, Contemplativo, Correcto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 13:59(32.730)],14582, Mujer
+2, poder, jassiell, giorgio,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 13:59(56.498)],23768, Mujer
+3, poder, jassiell, giorgio,7, Inquieto, Correcto,7, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 14:00(07.569)],11071, Mujer
+4, poder, jassiell, giorgio,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 14:00(19.869)],12299, Mujer
+5, poder, jassiell, giorgio,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 14:00(28.733)],8863, Mujer
+6, poder, jassiell, giorgio,2, Aterrorizado, Incorrecto,7, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 14:00(36.125)],7390, Mujer
+7, poder, jassiell, giorgio,21, Confundido, Incorrecto,3, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 14:00(53.425)],17300, Mujer
+8, poder, jassiell, giorgio,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 14:00(59.810)],6384, Mujer
+9, poder, jassiell, giorgio,36, Suspicaz, Correcto,7, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 14:01(06.752)],6941, Mujer
+10, poder, jassiell, giorgio,9, Preocupado , Correcto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 14:01(14.697)],7945, Mujer
+11, poder, jassiell, giorgio,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 14:01(22.23)],7326, Mujer
+12, poder, jassiell, giorgio,13, Decidido, Incorrecto,7, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 14:01(28.835)],6811, Mujer
+13, poder, jassiell, giorgio,23, Desafiante, Correcto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 14:01(38.515)],9679, Mujer
+14, poder, jassiell, giorgio,27, Arrogante, Incorrecto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 14:01(51.950)],13430, Mujer
+15, poder, jassiell, giorgio,12, Escéptico, Correcto,5, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 14:02(19.211)],27261, Mujer
+16, poder, jassiell, giorgio,20, Amistoso, Correcto,7, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 14:02(25.207)],5995, Mujer
+17, poder, jassiell, giorgio,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 14:02(57.143)],31935, Mujer
+18, poder, jassiell, giorgio,35, Insistente, Incorrecto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 14:03(04.517)],7373, Mujer
+19, poder, jassiell, giorgio,34, Desconfiado, Correcto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 14:03(10.246)],5728, Mujer
+20, poder, jassiell, giorgio,24, Emocionado, Incorrecto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 14:03(35.479)],25232, Mujer
+21, poder, jassiell, giorgio,18, Decido, Correcto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 14:03(47.514)],12034, Mujer
+22, poder, jassiell, giorgio,33, Preocupado , Correcto,7, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 14:03(55.438)],7924, Mujer
+23, poder, jassiell, giorgio,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 14:04(04.571)],9132, Mujer
+24, poder, jassiell, giorgio,6, Impaciente, Incorrecto,6, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 14:04(09.971)],5400, Mujer
+25, poder, jassiell, giorgio,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 14:04(14.931)],4959, Mujer
+26, poder, jassiell, giorgio,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 14:04(20.662)],5730, Mujer
+27, poder, jassiell, giorgio,29, Irritado, Incorrecto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 14:04(29.271)],8608, Mujer
+28, poder, jassiell, giorgio,19, Tentativo, Correcto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 14:04(45.820)],16548, Mujer
+29, poder, jassiell, giorgio,3, Deseo, Correcto,3, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 14:05(01.602)],15777, Mujer
+30, poder, jassiell, giorgio,25, Interesado, Correcto,7, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 14:05(26.642)],25040, Mujer
+31, poder, jassiell, giorgio,17, Dudoso, Correcto,4, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 14:05(31.940)],5297, Mujer
+32, poder, jassiell, giorgio,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 14:05(37.57)],5117, Mujer
+33, poder, jassiell, giorgio,1, Juguetón, Correcto,7, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 14:05(41.894)],4837, Mujer
+34, poder, jassiell, giorgio,16, Reflexivo, Correcto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 14:05(47.976)],6082, Mujer
+35, poder, jassiell, giorgio,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 14:05(54.627)],6650, Mujer
+36, poder, jassiell, giorgio,10, Insistente, Incorrecto,7, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 14:06(01.773)],7145, Mujer
+1, vulnerabilidad, Rocio , Giorgio,36, Indeciso, Incorrecto,4, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 13:57(23.438)],14601, Mujer
+2, vulnerabilidad, Rocio , Giorgio,34, Aterrorizado, Incorrecto,3, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 13:57(48.305)],24866, Mujer
+3, vulnerabilidad, Rocio , Giorgio,33, Preocupado , Correcto,4, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 13:58(08.17)],19711, Mujer
+4, vulnerabilidad, Rocio , Giorgio,6, Impaciente, Incorrecto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 13:58(15.17)],6999, Mujer
+5, vulnerabilidad, Rocio , Giorgio,23, Desafiante, Correcto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 13:59(01.431)],46413, Mujer
+6, vulnerabilidad, Rocio , Giorgio,24, Emocionado, Incorrecto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 13:59(08.707)],7268, Mujer
+7, vulnerabilidad, Rocio , Giorgio,29, Reflexivo, Correcto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 13:59(23.20)],14312, Mujer
+8, vulnerabilidad, Rocio , Giorgio,35, Nervioso, Correcto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 13:59(33.958)],10937, Mujer
+9, vulnerabilidad, Rocio , Giorgio,11, Arrepentido, Correcto,5, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 13:59(59.382)],25424, Mujer
+10, vulnerabilidad, Rocio , Giorgio,17, Juguetón, Incorrecto,3, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 14:00(06.517)],7133, Mujer
+11, vulnerabilidad, Rocio , Giorgio,30, Coqueto, Correcto,5, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 14:00(11.423)],4905, Mujer
+12, vulnerabilidad, Rocio , Giorgio,31, Desanimado, Incorrecto,2, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 14:00(32.425)],21002, Mujer
+13, vulnerabilidad, Rocio , Giorgio,2, Molesto, Correcto,4, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 14:00(45.158)],12732, Mujer
+14, vulnerabilidad, Rocio , Giorgio,4, Bromista  , Incorrecto,4,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 14:00(54.609)],9450, Mujer
+15, vulnerabilidad, Rocio , Giorgio,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 14:00(59.907)],5298, Mujer
+16, vulnerabilidad, Rocio , Giorgio,21, Fantaseando, Correcto,6, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 14:01(07.404)],7496, Mujer
+17, vulnerabilidad, Rocio , Giorgio,27, Arrogante, Incorrecto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 14:01(21.119)],13714, Mujer
+18, vulnerabilidad, Rocio , Giorgio,7, Inquieto, Correcto,3, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 14:01(28.92)],6972, Mujer
+19, vulnerabilidad, Rocio , Giorgio,32, Desconcertado, Incorrecto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 14:01(52.727)],24634, Mujer
+20, vulnerabilidad, Rocio , Giorgio,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 14:02(14.576)],21848, Mujer
+21, vulnerabilidad, Rocio , Giorgio,25, Interesado, Correcto,3, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 14:02(46.87)],31508, Mujer
+22, vulnerabilidad, Rocio , Giorgio,18, Entretenido, Incorrecto,4, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 14:02(52.602)],6514, Mujer
+23, vulnerabilidad, Rocio , Giorgio,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 14:02(57.810)],5207, Mujer
+24, vulnerabilidad, Rocio , Giorgio,19, Tentativo, Correcto,5, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 14:03(13.336)],15526, Mujer
+25, vulnerabilidad, Rocio , Giorgio,26, Alarmado, Incorrecto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 14:03(50.874)],37538, Mujer
+26, vulnerabilidad, Rocio , Giorgio,5, Preocupado , Correcto,4, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 14:04(05.564)],14689, Mujer
+27, vulnerabilidad, Rocio , Giorgio,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 14:04(30.66)],24501, Mujer
+28, vulnerabilidad, Rocio , Giorgio,1, Juguetón, Correcto,3, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 14:04(37.572)],7505, Mujer
+29, vulnerabilidad, Rocio , Giorgio,8, Emocionado, Incorrecto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 14:04(45.522)],7946, Mujer
+30, vulnerabilidad, Rocio , Giorgio,12, Avergonzado, Incorrecto,2, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 14:04(51.575)],6050, Mujer
+31, vulnerabilidad, Rocio , Giorgio,9, Aterrorizado, Incorrecto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 14:05(21.175)],29600, Mujer
+32, vulnerabilidad, Rocio , Giorgio,14, Acusador, Correcto,7, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 14:05(51.909)],30732, Mujer
+33, vulnerabilidad, Rocio , Giorgio,16, Reflexivo, Correcto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 14:06(03.787)],11877, Mujer
+34, vulnerabilidad, Rocio , Giorgio,15, Desconcertado, Incorrecto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 14:06(13.978)],10190, Mujer
+35, vulnerabilidad, Rocio , Giorgio,13, Anticipando, Correcto,4, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 14:06(21.679)],7700, Mujer
+36, vulnerabilidad, Rocio , Giorgio,10, Insistente, Incorrecto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 14:06(35.944)],14265, Mujer
+1, poder, Felipe, Giorgio,1, Reconfortante , Incorrecto,4, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 14:00(45.729)],14580, Hombre
+2, poder, Felipe, Giorgio,7, Amistoso, Incorrecto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 14:00(55.768)],10037, Hombre
+3, poder, Felipe, Giorgio,20, Amistoso, Correcto,4, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 14:01(14.145)],18375, Hombre
+4, poder, Felipe, Giorgio,34, Desconfiado, Correcto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 14:01(33.182)],19030, Hombre
+5, poder, Felipe, Giorgio,13, Tímido, Incorrecto,4, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 14:02(02.318)],29135, Hombre
+6, poder, Felipe, Giorgio,18, aburrido, Incorrecto,6, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 14:02(10.235)],7911, Hombre
+7, poder, Felipe, Giorgio,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 14:02(16.159)],5919, Hombre
+8, poder, Felipe, Giorgio,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 14:02(24.534)],8374, Hombre
+9, poder, Felipe, Giorgio,22, Preocupado , Correcto,4, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 14:02(35.777)],11242, Hombre
+10, poder, Felipe, Giorgio,17, Cariñoso, Incorrecto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 14:02(49.88)],13310, Hombre
+11, poder, Felipe, Giorgio,15, Contemplativo, Correcto,7, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 14:03(02.295)],13206, Hombre
+12, poder, Felipe, Giorgio,10, Insistente, Incorrecto,7, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 14:03(09.180)],6883, Hombre
+13, poder, Felipe, Giorgio,2, Arrogante , Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 14:03(35.974)],26792, Hombre
+14, poder, Felipe, Giorgio,9, Preocupado , Correcto,3, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 14:03(52.785)],16810, Hombre
+15, poder, Felipe, Giorgio,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 14:03(56.754)],3967, Hombre
+16, poder, Felipe, Giorgio,6, Fantaseando, Correcto,7, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 14:04(05.423)],8667, Hombre
+17, poder, Felipe, Giorgio,25, Interesado, Correcto,7, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 14:04(27.475)],22051, Hombre
+18, poder, Felipe, Giorgio,5, Sarcástico, Incorrecto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 14:04(33.873)],6396, Hombre
+19, poder, Felipe, Giorgio,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 14:04(45.383)],11508, Hombre
+20, poder, Felipe, Giorgio,12, Desanimado, Incorrecto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 14:04(53.777)],8393, Hombre
+21, poder, Felipe, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 14:05(35.663)],41885, Hombre
+22, poder, Felipe, Giorgio,21, Aterrado, Incorrecto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 14:05(51.969)],16304, Hombre
+23, poder, Felipe, Giorgio,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 14:05(58.382)],6410, Hombre
+24, poder, Felipe, Giorgio,19, Arrogante, Incorrecto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 14:06(07.652)],9269, Hombre
+25, poder, Felipe, Giorgio,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 14:06(13.236)],5582, Hombre
+26, poder, Felipe, Giorgio,35, Perplejo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 14:06(24.195)],10957, Hombre
+27, poder, Felipe, Giorgio,4,  Insistente, Correcto,1,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 14:06(33.10)],8813, Hombre
+28, poder, Felipe, Giorgio,29, Reflexivo, Correcto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 14:06(41.873)],8862, Hombre
+29, poder, Felipe, Giorgio,16, Reflexivo, Correcto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 14:06(49.661)],7786, Hombre
+30, poder, Felipe, Giorgio,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 14:07(02.299)],12635, Hombre
+31, poder, Felipe, Giorgio,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 14:07(53.830)],51530, Hombre
+32, poder, Felipe, Giorgio,31, Desanimado, Incorrecto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 14:08(04.524)],10693, Hombre
+33, poder, Felipe, Giorgio,27, Cauteloso, Correcto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 14:08(20.246)],15720, Hombre
+34, poder, Felipe, Giorgio,14, Acusador, Correcto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 14:08(27.377)],7130, Hombre
+35, poder, Felipe, Giorgio,3, Desconcertada, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 14:08(34.237)],6858, Hombre
+36, poder, Felipe, Giorgio,23, Curioso, Incorrecto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 14:08(48.775)],14536, Hombre
+1, poder, Raquel, Giorgio,2, Aterrorizado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-26 23:16(42.523)],50720, Mujer
+2, poder, Raquel, Giorgio,16, Reflexivo, Correcto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-26 23:16(55.922)],13399, Mujer
+3, poder, Raquel, Giorgio,17, Dudoso, Correcto,3, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-26 23:17(21.522)],25599, Mujer
+4, poder, Raquel, Giorgio,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-26 23:17(28.434)],6912, Mujer
+5, poder, Raquel, Giorgio,9, Molesto , Incorrecto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-26 23:17(37.106)],8672, Mujer
+6, poder, Raquel, Giorgio,23, Desafiante, Correcto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-26 23:18(09.330)],32224, Mujer
+7, poder, Raquel, Giorgio,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-26 23:18(15.666)],6336, Mujer
+8, poder, Raquel, Giorgio,13, Decidido, Incorrecto,4, Anticipando, Decidido, Amenazante, Tímido, [2023-11-26 23:18(27.290)],11624, Mujer
+9, poder, Raquel, Giorgio,11, Arrepentido, Correcto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-26 23:18(36.938)],9647, Mujer
+10, poder, Raquel, Giorgio,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-26 23:19(03.426)],26487, Mujer
+11, poder, Raquel, Giorgio,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-26 23:19(11.658)],8231, Mujer
+12, poder, Raquel, Giorgio,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-26 23:19(27.539)],15880, Mujer
+13, poder, Raquel, Giorgio,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-26 23:19(51.459)],23920, Mujer
+14, poder, Raquel, Giorgio,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-26 23:20(18.667)],27208, Mujer
+15, poder, Raquel, Giorgio,20, Amistoso, Correcto,7, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-26 23:20(26.332)],7665, Mujer
+16, poder, Raquel, Giorgio,12, Indiferente, Incorrecto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-26 23:20(32.300)],5968, Mujer
+17, poder, Raquel, Giorgio,1, Juguetón, Correcto,7, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-26 23:20(39.124)],6824, Mujer
+18, poder, Raquel, Giorgio,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-26 23:20(50.892)],11768, Mujer
+19, poder, Raquel, Giorgio,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-26 23:21(17.892)],27000, Mujer
+20, poder, Raquel, Giorgio,34, Desconfiado, Correcto,5, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-26 23:21(26.996)],9104, Mujer
+21, poder, Raquel, Giorgio,15, Contemplativo, Correcto,7, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-26 23:21(37.572)],10576, Mujer
+22, poder, Raquel, Giorgio,30, Coqueto, Correcto,4, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-26 23:21(47.60)],9488, Mujer
+23, poder, Raquel, Giorgio,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-26 23:21(57.660)],10600, Mujer
+24, poder, Raquel, Giorgio,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-26 23:22(02.84)],4424, Mujer
+25, poder, Raquel, Giorgio,35, Contemplativo, Incorrecto,4, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-26 23:22(10.668)],8584, Mujer
+26, poder, Raquel, Giorgio,28, Interesado, Correcto,7, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-26 23:22(15.476)],4808, Mujer
+27, poder, Raquel, Giorgio,29, Reflexivo, Correcto,5, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-26 23:22(25.796)],10320, Mujer
+28, poder, Raquel, Giorgio,21, Fantaseando, Correcto,7, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-26 23:22(31.84)],5286, Mujer
+29, poder, Raquel, Giorgio,32, serio, Correcto,5, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-26 23:22(37.92)],6008, Mujer
+30, poder, Raquel, Giorgio,7, Amistoso, Incorrecto,3, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-26 23:22(51.300)],14208, Mujer
+31, poder, Raquel, Giorgio,3, Convencida, Incorrecto,7, Deseo, Desconcertada, Bromista, Convencida, [2023-11-26 23:23(08.740)],17440, Mujer
+32, poder, Raquel, Giorgio,5, Preocupado , Correcto,4, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-26 23:23(14.396)],5656, Mujer
+33, poder, Raquel, Giorgio,36, Suspicaz, Correcto,5, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-26 23:23(18.708)],4312, Mujer
+34, poder, Raquel, Giorgio,6, Fantaseando, Correcto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-26 23:23(28.29)],9321, Mujer
+35, poder, Raquel, Giorgio,14, Acusador, Correcto,7, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-26 23:23(34.525)],6496, Mujer
+36, poder, Raquel, Giorgio,19, Tentativo, Correcto,4, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-26 23:23(40.733)],6208, Mujer
+1, poder, Bruno, Giorgio,11, Arrepentido, Correcto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 11:12(01.65)],41040, Hombre
+2, poder, Bruno, Giorgio,7, Amistoso, Incorrecto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 11:12(12.422)],11357, Hombre
+3, poder, Bruno, Giorgio,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 11:12(23.567)],11144, Hombre
+4, poder, Bruno, Giorgio,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 11:12(32.87)],8519, Hombre
+5, poder, Bruno, Giorgio,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 11:12(42.239)],10151, Hombre
+6, poder, Bruno, Giorgio,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 11:12(48.607)],6368, Hombre
+7, poder, Bruno, Giorgio,14, Irritado, Incorrecto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 11:12(57.71)],8464, Hombre
+8, poder, Bruno, Giorgio,19, Tentativo, Correcto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 11:13(05.999)],8928, Hombre
+9, poder, Bruno, Giorgio,28, Interesado, Correcto,4, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 11:13(14.335)],8336, Hombre
+10, poder, Bruno, Giorgio,26, Hostil, Correcto,2, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 11:13(35.318)],20983, Hombre
+11, poder, Bruno, Giorgio,12, Escéptico, Correcto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 11:13(40.663)],5344, Hombre
+12, poder, Bruno, Giorgio,35, Nervioso, Correcto,6, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 11:13(47.238)],6575, Hombre
+13, poder, Bruno, Giorgio,8, Emocionado, Incorrecto,3, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 11:14(01.639)],14400, Hombre
+14, poder, Bruno, Giorgio,21, Fantaseando, Correcto,6, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 11:14(07.791)],6152, Hombre
+15, poder, Bruno, Giorgio,33, Culpable, Incorrecto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 11:14(16.702)],8911, Hombre
+16, poder, Bruno, Giorgio,6, Impaciente, Incorrecto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 11:14(53.751)],37048, Hombre
+17, poder, Bruno, Giorgio,10, Insistente, Incorrecto,3, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 11:15(10.455)],16704, Hombre
+18, poder, Bruno, Giorgio,15, Contemplativo, Correcto,4, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 11:15(17.655)],7200, Hombre
+19, poder, Bruno, Giorgio,22, Preocupado , Correcto,3, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 11:15(32.695)],15040, Hombre
+20, poder, Bruno, Giorgio,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 11:15(37.455)],4760, Hombre
+21, poder, Bruno, Giorgio,9, Preocupado , Correcto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 11:15(42.239)],4784, Hombre
+22, poder, Bruno, Giorgio,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 11:15(55.335)],13096, Hombre
+23, poder, Bruno, Giorgio,20, Amistoso, Correcto,7, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 11:16(09.839)],14504, Hombre
+24, poder, Bruno, Giorgio,4,  Insistente, Correcto,4,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 11:16(16.679)],6839, Hombre
+25, poder, Bruno, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 11:16(25.15)],8336, Hombre
+26, poder, Bruno, Giorgio,18, Decido, Correcto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 11:16(29.439)],4424, Hombre
+27, poder, Bruno, Giorgio,23, Curioso, Incorrecto,5, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 11:16(33.735)],4296, Hombre
+28, poder, Bruno, Giorgio,3, Convencida, Incorrecto,4, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 11:16(40.927)],7192, Hombre
+29, poder, Bruno, Giorgio,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 11:16(47.39)],6112, Hombre
+30, poder, Bruno, Giorgio,17, Cariñoso, Incorrecto,4, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 11:16(55.351)],8312, Hombre
+31, poder, Bruno, Giorgio,34, Desconfiado, Correcto,6, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 11:16(59.279)],3928, Hombre
+32, poder, Bruno, Giorgio,2, Aterrorizado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 11:17(04.567)],5287, Hombre
+33, poder, Bruno, Giorgio,1, Reconfortante , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 11:17(12.983)],8416, Hombre
+34, poder, Bruno, Giorgio,29, Reflexivo, Correcto,2, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 11:17(24.759)],11776, Hombre
+35, poder, Bruno, Giorgio,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 11:17(28.239)],3480, Hombre
+36, poder, Bruno, Giorgio,24, Pensativo , Correcto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 11:17(37.903)],9664, Hombre
+1, poder, Daniel, Giorgio,11, Coqueto, Incorrecto,5, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-10 21:38(51.698)],47009, Hombre
+2, poder, Daniel, Giorgio,13, Decidido, Incorrecto,6, Anticipando, Decidido, Amenazante, Tímido, [2023-12-10 21:39(07.294)],15595, Hombre
+3, poder, Daniel, Giorgio,32, Avergonzado, Incorrecto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-10 21:39(18.384)],11089, Hombre
+4, poder, Daniel, Giorgio,19, Agradecido, Incorrecto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-10 21:39(28.644)],10260, Hombre
+5, poder, Daniel, Giorgio,18, aburrido, Incorrecto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-12-10 21:39(39.238)],10594, Hombre
+6, poder, Daniel, Giorgio,14, Deprimido, Incorrecto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-10 21:40(00.668)],21430, Hombre
+7, poder, Daniel, Giorgio,34, Desconfiado, Correcto,6, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-10 21:40(07.698)],7029, Hombre
+8, poder, Daniel, Giorgio,21, Fantaseando, Correcto,7, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-10 21:40(14.763)],7064, Hombre
+9, poder, Daniel, Giorgio,35, Nervioso, Correcto,7, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-10 21:40(21.490)],6727, Hombre
+10, poder, Daniel, Giorgio,16, Comprensivo, Incorrecto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-10 21:40(26.347)],4856, Hombre
+11, poder, Daniel, Giorgio,6, Fantaseando, Correcto,7, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-10 21:40(34.234)],7887, Hombre
+12, poder, Daniel, Giorgio,10, Cauteloso, Correcto,7, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-10 21:40(41.322)],7087, Hombre
+13, poder, Daniel, Giorgio,29, horrorizado, Incorrecto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-10 21:40(45.755)],4432, Hombre
+14, poder, Daniel, Giorgio,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-10 21:40(50.949)],5193, Hombre
+15, poder, Daniel, Giorgio,22, Suplicante, Incorrecto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-10 21:40(57.145)],6196, Hombre
+16, poder, Daniel, Giorgio,20, Dominante, Incorrecto,7, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-10 21:41(03.523)],6377, Hombre
+17, poder, Daniel, Giorgio,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-10 21:41(07.547)],4023, Hombre
+18, poder, Daniel, Giorgio,28, Interesado, Correcto,7, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-10 21:41(13.895)],6347, Hombre
+19, poder, Daniel, Giorgio,12, Escéptico, Correcto,5, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-10 21:41(21.225)],7330, Hombre
+20, poder, Daniel, Giorgio,3, Convencida, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-12-10 21:41(30.387)],9161, Hombre
+21, poder, Daniel, Giorgio,2, Irritado, Incorrecto,5, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-10 21:41(35.381)],4994, Hombre
+22, poder, Daniel, Giorgio,23, Arrepentido, Incorrecto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-10 21:41(43.663)],8281, Hombre
+23, poder, Daniel, Giorgio,25, Aterrado, Incorrecto,4, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-10 21:41(50.967)],7303, Hombre
+24, poder, Daniel, Giorgio,36, Suspicaz, Correcto,5, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-10 21:41(56.577)],5610, Hombre
+25, poder, Daniel, Giorgio,24, Pensativo , Correcto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-10 21:42(02.484)],5906, Hombre
+26, poder, Daniel, Giorgio,17, Horrorizado, Incorrecto,3, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-10 21:42(08.9)],5525, Hombre
+27, poder, Daniel, Giorgio,27, Bromista , Incorrecto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-10 21:42(11.458)],3448, Hombre
+28, poder, Daniel, Giorgio,26, Hostil, Correcto,4, Hostil, Alarmado, Tímido, Ansioso, [2023-12-10 21:42(18.168)],6710, Hombre
+29, poder, Daniel, Giorgio,7, Inquieto, Correcto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-10 21:42(22.548)],4379, Hombre
+30, poder, Daniel, Giorgio,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-10 21:42(29.532)],6983, Hombre
+31, poder, Daniel, Giorgio,1, Irritado , Incorrecto,5, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-10 21:42(37.904)],8371, Hombre
+32, poder, Daniel, Giorgio,31, Seguro, Correcto,3, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-10 21:42(47.322)],9417, Hombre
+33, poder, Daniel, Giorgio,9, Preocupado , Correcto,5, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-10 21:43(14.868)],27543, Hombre
+34, poder, Daniel, Giorgio,8, Abatido, Correcto,5, Abatido, Aliviado, Tímido, Emocionado, [2023-12-10 21:43(22.43)],7174, Hombre
+35, poder, Daniel, Giorgio,33, Preocupado , Correcto,3, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-10 21:43(26.716)],4672, Hombre
+36, poder, Daniel, Giorgio,15, Contemplativo, Correcto,4, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-10 21:43(31.570)],4854, Hombre
+1, vulnerabilidad, serggio, giorgio,35, Contemplativo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-10 21:44(04.710)],34600, Hombre
+2, vulnerabilidad, serggio, giorgio,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-10 21:44(16.67)],11357, Hombre
+3, vulnerabilidad, serggio, giorgio,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-10 21:44(23.251)],7183, Hombre
+4, vulnerabilidad, serggio, giorgio,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-10 21:44(30.530)],7279, Hombre
+5, vulnerabilidad, serggio, giorgio,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-10 21:44(40.354)],9823, Hombre
+6, vulnerabilidad, serggio, giorgio,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-12-10 21:44(59.445)],19090, Hombre
+7, vulnerabilidad, serggio, giorgio,12, Indiferente, Incorrecto,6, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-10 21:45(05.18)],5573, Hombre
+8, vulnerabilidad, serggio, giorgio,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-10 21:45(11.518)],6499, Hombre
+9, vulnerabilidad, serggio, giorgio,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-10 21:45(18.228)],6709, Hombre
+10, vulnerabilidad, serggio, giorgio,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-10 21:45(25.828)],7598, Hombre
+11, vulnerabilidad, serggio, giorgio,3, Desconcertada, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-12-10 21:45(54.398)],28570, Hombre
+12, vulnerabilidad, serggio, giorgio,23, Desafiante, Correcto,6, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-10 21:46(21.277)],26878, Hombre
+13, vulnerabilidad, serggio, giorgio,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-10 21:46(26.43)],4766, Hombre
+14, vulnerabilidad, serggio, giorgio,34, Desconfiado, Correcto,6, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-10 21:46(34.803)],8760, Hombre
+15, vulnerabilidad, serggio, giorgio,13, Tímido, Incorrecto,6, Anticipando, Decidido, Amenazante, Tímido, [2023-12-10 21:46(42.558)],7755, Hombre
+16, vulnerabilidad, serggio, giorgio,30, Coqueto, Correcto,6, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-10 21:46(46.771)],4212, Hombre
+17, vulnerabilidad, serggio, giorgio,33, Preocupado , Correcto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-10 21:46(52.628)],5856, Hombre
+18, vulnerabilidad, serggio, giorgio,10, Cauteloso, Correcto,6, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-10 21:46(57.714)],5086, Hombre
+19, vulnerabilidad, serggio, giorgio,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-10 21:47(09.82)],11368, Hombre
+20, vulnerabilidad, serggio, giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-10 21:47(15.163)],6080, Hombre
+21, vulnerabilidad, serggio, giorgio,22, Insistente, Incorrecto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-10 21:47(46.826)],31663, Hombre
+22, vulnerabilidad, serggio, giorgio,27, Cauteloso, Correcto,6, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-10 21:47(53.202)],6376, Hombre
+23, vulnerabilidad, serggio, giorgio,9, Preocupado , Correcto,6, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-10 21:47(59.546)],6343, Hombre
+24, vulnerabilidad, serggio, giorgio,1, Reconfortante , Incorrecto,6, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-10 21:48(05.2)],5455, Hombre
+25, vulnerabilidad, serggio, giorgio,20, Amistoso, Correcto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-10 21:48(12.330)],7327, Hombre
+26, vulnerabilidad, serggio, giorgio,32, serio, Correcto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-10 21:48(18.179)],5848, Hombre
+27, vulnerabilidad, serggio, giorgio,16, Comprensivo, Incorrecto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-10 21:48(23.67)],4888, Hombre
+28, vulnerabilidad, serggio, giorgio,29, Reflexivo, Correcto,6, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-10 21:48(28.426)],5359, Hombre
+29, vulnerabilidad, serggio, giorgio,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-12-10 21:48(36.17)],7590, Hombre
+30, vulnerabilidad, serggio, giorgio,17, Dudoso, Correcto,6, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-10 21:48(42.561)],6543, Hombre
+31, vulnerabilidad, serggio, giorgio,14, Decepcionado, Incorrecto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-10 21:48(53.777)],11215, Hombre
+32, vulnerabilidad, serggio, giorgio,8, Abatido, Correcto,7, Abatido, Aliviado, Tímido, Emocionado, [2023-12-10 21:48(58.665)],4887, Hombre
+33, vulnerabilidad, serggio, giorgio,24, Pensativo , Correcto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-10 21:49(08.786)],10120, Hombre
+34, vulnerabilidad, serggio, giorgio,19, Tentativo, Correcto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-10 21:49(16.561)],7775, Hombre
+35, vulnerabilidad, serggio, giorgio,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-10 21:49(21.25)],4463, Hombre
+36, vulnerabilidad, serggio, giorgio,7, Arrepentido, Incorrecto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-10 21:49(30.505)],9479, Hombre
+1, vulnerabilidad, Ruben, Giorgio,33, Preocupado , Correcto,5, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-12-10 21:47(48.625)],17575, Hombre
+2, vulnerabilidad, Ruben, Giorgio,8, Emocionado, Incorrecto,4, Abatido, Aliviado, Tímido, Emocionado, [2023-12-10 21:47(55.785)],7159, Hombre
+3, vulnerabilidad, Ruben, Giorgio,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-12-10 21:48(05.657)],9870, Hombre
+4, vulnerabilidad, Ruben, Giorgio,7, Amistoso, Incorrecto,5, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-12-10 21:48(12.913)],7255, Hombre
+5, vulnerabilidad, Ruben, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-12-10 21:48(19.961)],7048, Hombre
+6, vulnerabilidad, Ruben, Giorgio,12, Escéptico, Correcto,5, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-12-10 21:48(28.329)],8367, Hombre
+7, vulnerabilidad, Ruben, Giorgio,13, Tímido, Incorrecto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-12-10 21:48(37.615)],9283, Hombre
+8, vulnerabilidad, Ruben, Giorgio,22, Preocupado , Correcto,7, Preocupado , Agradecido , Suplicante, Insistente, [2023-12-10 21:48(48.578)],10961, Hombre
+9, vulnerabilidad, Ruben, Giorgio,34, Desconcertado, Incorrecto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-12-10 21:48(58.603)],10025, Hombre
+10, vulnerabilidad, Ruben, Giorgio,6, Impaciente, Incorrecto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-12-10 21:49(21.249)],22643, Hombre
+11, vulnerabilidad, Ruben, Giorgio,21, Fantaseando, Correcto,6, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-12-10 21:49(51.140)],29890, Hombre
+12, vulnerabilidad, Ruben, Giorgio,24, Pensativo , Correcto,7, Pensativo , Irritado  , Emocionado, Hostil, [2023-12-10 21:50(08.946)],17804, Hombre
+13, vulnerabilidad, Ruben, Giorgio,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-12-10 21:50(17.75)],8128, Hombre
+14, vulnerabilidad, Ruben, Giorgio,9, Preocupado , Correcto,6, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-12-10 21:50(26.762)],9687, Hombre
+15, vulnerabilidad, Ruben, Giorgio,5, Sarcástico, Incorrecto,5, Preocupado , Irritado, Sarcástico, Amistoso, [2023-12-10 21:50(34.338)],7576, Hombre
+16, vulnerabilidad, Ruben, Giorgio,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-12-10 21:50(42.82)],7744, Hombre
+17, vulnerabilidad, Ruben, Giorgio,25, Incrédulo, Incorrecto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-12-10 21:50(51.882)],9800, Hombre
+18, vulnerabilidad, Ruben, Giorgio,35, Insistente, Incorrecto,4, Nervioso, Perplejo, Insistente, Contemplativo, [2023-12-10 21:51(18.370)],26488, Hombre
+19, vulnerabilidad, Ruben, Giorgio,11, Arrepentido, Correcto,7, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-12-10 21:51(25.906)],7536, Hombre
+20, vulnerabilidad, Ruben, Giorgio,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-12-10 21:51(39.794)],13888, Hombre
+21, vulnerabilidad, Ruben, Giorgio,17, Dudoso, Correcto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-12-10 21:51(45.115)],5321, Hombre
+22, vulnerabilidad, Ruben, Giorgio,20, Amistoso, Correcto,5, Amistoso, Dominante, Horrorizado, Culpable, [2023-12-10 21:51(53.634)],8519, Hombre
+23, vulnerabilidad, Ruben, Giorgio,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-12-10 21:51(57.330)],3696, Hombre
+24, vulnerabilidad, Ruben, Giorgio,15, Desconcertado, Incorrecto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-12-10 21:52(04.626)],7296, Hombre
+25, vulnerabilidad, Ruben, Giorgio,28, Cariñoso, Incorrecto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-12-10 21:52(09.362)],4736, Hombre
+26, vulnerabilidad, Ruben, Giorgio,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-12-10 21:52(19.154)],9791, Hombre
+27, vulnerabilidad, Ruben, Giorgio,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-12-10 21:52(24.266)],5112, Hombre
+28, vulnerabilidad, Ruben, Giorgio,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-12-10 21:52(27.882)],3616, Hombre
+29, vulnerabilidad, Ruben, Giorgio,26, Hostil, Correcto,6, Hostil, Alarmado, Tímido, Ansioso, [2023-12-10 21:52(34.769)],6887, Hombre
+30, vulnerabilidad, Ruben, Giorgio,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-12-10 21:52(53.130)],18360, Hombre
+31, vulnerabilidad, Ruben, Giorgio,27, Arrogante, Incorrecto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-12-10 21:53(00.906)],7776, Hombre
+32, vulnerabilidad, Ruben, Giorgio,19, Arrogante, Incorrecto,7, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-12-10 21:53(13.226)],12320, Hombre
+33, vulnerabilidad, Ruben, Giorgio,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-12-10 21:53(28.801)],15575, Hombre
+34, vulnerabilidad, Ruben, Giorgio,23, Desafiante, Correcto,7, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-12-10 21:53(47.25)],18224, Hombre
+35, vulnerabilidad, Ruben, Giorgio,1, Irritado , Incorrecto,7, Juguetón, Reconfortante , Irritado , Aburrido, [2023-12-10 21:53(56.209)],9183, Hombre
+36, vulnerabilidad, Ruben, Giorgio,29, Reflexivo, Correcto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-12-10 21:54(07.681)],11472, Hombre
+1, vulnerabilidad, Bruno, Giorgio,3, Convencida, Incorrecto,6, Deseo, Desconcertada, Bromista, Convencida, [2023-11-27 13:57(21.767)],11661, Hombre
+2, vulnerabilidad, Bruno, Giorgio,17, Cariñoso, Incorrecto,5, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-27 13:57(29.34)],7264, Hombre
+3, vulnerabilidad, Bruno, Giorgio,2, Aterrorizado, Incorrecto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-27 13:57(35.359)],6323, Hombre
+4, vulnerabilidad, Bruno, Giorgio,6, Fantaseando, Correcto,7, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-27 13:57(44.230)],8869, Hombre
+5, vulnerabilidad, Bruno, Giorgio,7, Amistoso, Incorrecto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-27 13:57(51.832)],7599, Hombre
+6, vulnerabilidad, Bruno, Giorgio,1, Juguetón, Correcto,7, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-27 13:57(55.535)],3702, Hombre
+7, vulnerabilidad, Bruno, Giorgio,4,  Insistente, Correcto,7,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-27 13:58(06.207)],10671, Hombre
+8, vulnerabilidad, Bruno, Giorgio,22, Insistente, Incorrecto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-27 13:58(11.66)],4857, Hombre
+9, vulnerabilidad, Bruno, Giorgio,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-27 13:58(16.146)],5078, Hombre
+10, vulnerabilidad, Bruno, Giorgio,18, aburrido, Incorrecto,5, Decido, Entretenido, Horrorizado, aburrido, [2023-11-27 13:58(23.333)],7186, Hombre
+11, vulnerabilidad, Bruno, Giorgio,29, Reflexivo, Correcto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-27 13:58(59.485)],36150, Hombre
+12, vulnerabilidad, Bruno, Giorgio,24, Pensativo , Correcto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-27 13:59(03.820)],4333, Hombre
+13, vulnerabilidad, Bruno, Giorgio,19, Tentativo, Correcto,6, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-27 13:59(16.458)],12637, Hombre
+14, vulnerabilidad, Bruno, Giorgio,26, Hostil, Correcto,7, Hostil, Alarmado, Tímido, Ansioso, [2023-11-27 13:59(19.876)],3416, Hombre
+15, vulnerabilidad, Bruno, Giorgio,21, Fantaseando, Correcto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-27 13:59(27.923)],8044, Hombre
+16, vulnerabilidad, Bruno, Giorgio,35, Nervioso, Correcto,7, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-27 13:59(33.521)],5597, Hombre
+17, vulnerabilidad, Bruno, Giorgio,12, Escéptico, Correcto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-27 13:59(48.579)],15054, Hombre
+18, vulnerabilidad, Bruno, Giorgio,16, Comprensivo, Incorrecto,7, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-27 14:00(07.375)],18794, Hombre
+19, vulnerabilidad, Bruno, Giorgio,8, Abatido, Correcto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-27 14:00(14.248)],6870, Hombre
+20, vulnerabilidad, Bruno, Giorgio,25, Interesado, Correcto,7, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-27 14:00(21.153)],6903, Hombre
+21, vulnerabilidad, Bruno, Giorgio,11, Arrepentido, Correcto,6, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-27 14:00(26.147)],4992, Hombre
+22, vulnerabilidad, Bruno, Giorgio,14, Decepcionado, Incorrecto,6, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-27 14:00(30.955)],4807, Hombre
+23, vulnerabilidad, Bruno, Giorgio,33, Preocupado , Correcto,7, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-27 14:01(05.925)],34968, Hombre
+24, vulnerabilidad, Bruno, Giorgio,32, serio, Correcto,6, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-27 14:01(13.40)],7105, Hombre
+25, vulnerabilidad, Bruno, Giorgio,10, Cauteloso, Correcto,7, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-27 14:01(17.474)],4432, Hombre
+26, vulnerabilidad, Bruno, Giorgio,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-27 14:01(23.678)],6202, Hombre
+27, vulnerabilidad, Bruno, Giorgio,9, Preocupado , Correcto,6, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-27 14:01(32.544)],8864, Hombre
+28, vulnerabilidad, Bruno, Giorgio,13, Anticipando, Correcto,7, Anticipando, Decidido, Amenazante, Tímido, [2023-11-27 14:01(44.480)],11934, Hombre
+29, vulnerabilidad, Bruno, Giorgio,34, Desconfiado, Correcto,7, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-27 14:02(49.344)],64862, Hombre
+30, vulnerabilidad, Bruno, Giorgio,36, Suspicaz, Correcto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-27 14:03(45.447)],56100, Hombre
+31, vulnerabilidad, Bruno, Giorgio,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-27 14:03(52.914)],7465, Hombre
+32, vulnerabilidad, Bruno, Giorgio,27, Cauteloso, Correcto,7, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-27 14:04(03.463)],10547, Hombre
+33, vulnerabilidad, Bruno, Giorgio,23, Arrepentido, Incorrecto,7, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-27 14:04(36.215)],32749, Hombre
+34, vulnerabilidad, Bruno, Giorgio,31, Seguro, Correcto,7, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-27 14:04(47.431)],11215, Hombre
+35, vulnerabilidad, Bruno, Giorgio,20, Dominante, Incorrecto,7, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-27 14:04(54.774)],7340, Hombre
+36, vulnerabilidad, Bruno, Giorgio,28, Interesado, Correcto,7, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-27 14:05(18.541)],23765, Hombre
+1, poder, alejandro, vane,20, Amistoso, Correcto,6, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-26 22:58(43.522)],47863, Mujer
+2, poder, alejandro, vane,16, Reflexivo, Correcto,6, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-26 22:59(04.187)],20664, Mujer
+3, poder, alejandro, vane,6, Fantaseando, Correcto,5, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-26 22:59(37.377)],33189, Mujer
+4, poder, alejandro, vane,5, Preocupado , Correcto,7, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-26 22:59(55.478)],18100, Mujer
+5, poder, alejandro, vane,35, Contemplativo, Incorrecto,5, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-26 23:00(25.151)],29673, Mujer
+6, poder, alejandro, vane,32, Desconcertado, Incorrecto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-26 23:00(46.66)],20915, Mujer
+7, poder, alejandro, vane,11, Arrepentido, Correcto,4, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-26 23:01(15.431)],29361, Mujer
+8, poder, alejandro, vane,14, Acusador, Correcto,5, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-26 23:01(52.826)],37394, Mujer
+9, poder, alejandro, vane,12, Indiferente, Incorrecto,7, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-26 23:02(18.248)],25418, Mujer
+10, poder, alejandro, vane,19, Sarcástico, Incorrecto,3, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-26 23:03(03.388)],45136, Mujer
+11, poder, alejandro, vane,9, Molesto , Incorrecto,2, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-26 23:03(29.885)],26496, Mujer
+12, poder, alejandro, vane,30, Coqueto, Correcto,7, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-26 23:03(34.937)],5051, Mujer
+13, poder, alejandro, vane,18, Decido, Correcto,7, Decido, Entretenido, Horrorizado, aburrido, [2023-11-26 23:03(48.169)],13231, Mujer
+14, poder, alejandro, vane,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-26 23:04(10.519)],22349, Mujer
+15, poder, alejandro, vane,36, Indeciso, Incorrecto,6, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-26 23:05(01.713)],51193, Mujer
+16, poder, alejandro, vane,8, Tímido, Incorrecto,6, Abatido, Aliviado, Tímido, Emocionado, [2023-11-26 23:05(39.206)],37493, Mujer
+17, poder, alejandro, vane,13, Anticipando, Correcto,5, Anticipando, Decidido, Amenazante, Tímido, [2023-11-26 23:06(01.639)],22431, Mujer
+18, poder, alejandro, vane,4,  Insistente, Correcto,6,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-26 23:06(10.790)],9151, Mujer
+19, poder, alejandro, vane,29, Impaciente , Incorrecto,7, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-26 23:06(23.765)],12970, Mujer
+20, poder, alejandro, vane,24, Irritado  , Incorrecto,6, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-26 23:06(36.702)],12936, Mujer
+21, poder, alejandro, vane,3, Bromista, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-11-26 23:06(52.575)],15872, Mujer
+22, poder, alejandro, vane,25, Interesado, Correcto,6, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-26 23:07(06.492)],13916, Mujer
+23, poder, alejandro, vane,27, Cauteloso, Correcto,5, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-26 23:07(27.541)],21048, Mujer
+24, poder, alejandro, vane,10, Cauteloso, Correcto,4, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-26 23:07(49.214)],21673, Mujer
+25, poder, alejandro, vane,17, Dudoso, Correcto,6, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-26 23:08(02.764)],13549, Mujer
+26, poder, alejandro, vane,34, Desconfiado, Correcto,6, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-26 23:08(18.413)],15649, Mujer
+27, poder, alejandro, vane,31, Seguro, Correcto,6, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-26 23:08(35.835)],17421, Mujer
+28, poder, alejandro, vane,26, Ansioso, Incorrecto,5, Hostil, Alarmado, Tímido, Ansioso, [2023-11-26 23:08(51.841)],16005, Mujer
+29, poder, alejandro, vane,21, Confundido, Incorrecto,5, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-26 23:09(04.894)],13052, Mujer
+30, poder, alejandro, vane,7, Desanimado, Incorrecto,6, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-26 23:09(20.78)],15183, Mujer
+31, poder, alejandro, vane,33, Avergonzado, Incorrecto,6, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-26 23:09(49.83)],29004, Mujer
+32, poder, alejandro, vane,2, Molesto, Correcto,6, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-26 23:10(10.214)],21131, Mujer
+33, poder, alejandro, vane,23, Desafiante, Correcto,7, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-26 23:10(25.381)],15166, Mujer
+34, poder, alejandro, vane,15, Desconcertado, Incorrecto,5, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-26 23:10(35.534)],10153, Mujer
+35, poder, alejandro, vane,28, Interesado, Correcto,6, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-26 23:10(53.205)],17670, Mujer
+36, poder, alejandro, vane,1, Juguetón, Correcto,7, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-26 23:11(02.462)],9257, Mujer
+1, vulnerabilidad, alejandro, vane,25, Interesado, Correcto,5, Interesado, Aterrado, Abatido, Incrédulo, [2023-11-26 22:43(11.857)],77925, Hombre
+2, vulnerabilidad, alejandro, vane,5, Preocupado , Correcto,6, Preocupado , Irritado, Sarcástico, Amistoso, [2023-11-26 22:43(50.780)],38923, Hombre
+3, vulnerabilidad, alejandro, vane,16, Comprensivo, Incorrecto,5, Reflexivo, Irritado  , Alentador, Comprensivo, [2023-11-26 22:44(20.804)],30023, Hombre
+4, vulnerabilidad, alejandro, vane,4,  Insistente, Correcto,4,  Insistente, Bromista  , Entretenido, Relajado, [2023-11-26 22:44(40.207)],19400, Hombre
+5, vulnerabilidad, alejandro, vane,29, Impaciente , Incorrecto,3, Reflexivo, Impaciente , horrorizado, Irritado, [2023-11-26 22:45(00.577)],20370, Hombre
+6, vulnerabilidad, alejandro, vane,14, Acusador, Correcto,3, Acusador, Irritado, Decepcionado, Deprimido, [2023-11-26 22:45(37.649)],37072, Hombre
+7, vulnerabilidad, alejandro, vane,23, Desafiante, Correcto,4, Desafiante, Satisfecho, Arrepentido, Curioso, [2023-11-26 22:46(01.132)],23481, Hombre
+8, vulnerabilidad, alejandro, vane,1, Juguetón, Correcto,6, Juguetón, Reconfortante , Irritado , Aburrido, [2023-11-26 22:46(17.510)],16375, Hombre
+9, vulnerabilidad, alejandro, vane,21, Fantaseando, Correcto,7, Fantaseando, Avergonzado, Aterrado, Confundido, [2023-11-26 22:46(45.746)],28236, Hombre
+10, vulnerabilidad, alejandro, vane,30, Coqueto, Correcto,6, Coqueto, Decepcionado, Hostil, Agradecido, [2023-11-26 22:46(57.405)],11659, Hombre
+11, vulnerabilidad, alejandro, vane,2, Irritado, Incorrecto,4, Molesto, Aterrorizado, Arrogante , Irritado, [2023-11-26 22:47(25.391)],27985, Hombre
+12, vulnerabilidad, alejandro, vane,26, Hostil, Correcto,4, Hostil, Alarmado, Tímido, Ansioso, [2023-11-26 22:47(42.756)],17365, Hombre
+13, vulnerabilidad, alejandro, vane,33, Preocupado , Correcto,4, Preocupado , Fantaseando, Culpable, Avergonzado, [2023-11-26 22:48(03.384)],20627, Hombre
+14, vulnerabilidad, alejandro, vane,10, Cauteloso, Correcto,5, Cauteloso, Insistente, Aburrido, Horrorizado, [2023-11-26 22:48(19.67)],15683, Hombre
+15, vulnerabilidad, alejandro, vane,19, Tentativo, Correcto,4, Tentativo, Arrogante, Sarcástico, Agradecido, [2023-11-26 22:48(37.301)],18234, Hombre
+16, vulnerabilidad, alejandro, vane,12, Indiferente, Incorrecto,4, Escéptico, Indiferente, Avergonzado, Desanimado, [2023-11-26 22:48(58.757)],21456, Hombre
+17, vulnerabilidad, alejandro, vane,35, Insistente, Incorrecto,4, Nervioso, Perplejo, Insistente, Contemplativo, [2023-11-26 22:49(13.577)],14819, Hombre
+18, vulnerabilidad, alejandro, vane,11, Arrepentido, Correcto,3, Arrepentido, Aterrorizado, Entretenido, Coqueto, [2023-11-26 22:49(32.306)],18728, Hombre
+19, vulnerabilidad, alejandro, vane,22, Preocupado , Correcto,6, Preocupado , Agradecido , Suplicante, Insistente, [2023-11-26 22:49(48.426)],16119, Hombre
+20, vulnerabilidad, alejandro, vane,3, Convencida, Incorrecto,5, Deseo, Desconcertada, Bromista, Convencida, [2023-11-26 22:50(10.24)],21598, Hombre
+21, vulnerabilidad, alejandro, vane,9, Preocupado , Correcto,4, Preocupado , Molesto ,  Hostil, Aterrorizado, [2023-11-26 22:50(20.306)],10282, Hombre
+22, vulnerabilidad, alejandro, vane,6, Alarmado, Incorrecto,4, Fantaseando, Horrorizado, Impaciente, Alarmado, [2023-11-26 22:50(37.217)],16910, Hombre
+23, vulnerabilidad, alejandro, vane,36, Indeciso, Incorrecto,4, Suspicaz, Avergonzado, Nervioso, Indeciso, [2023-11-26 22:50(56.878)],19660, Hombre
+24, vulnerabilidad, alejandro, vane,20, Amistoso, Correcto,3, Amistoso, Dominante, Horrorizado, Culpable, [2023-11-26 22:51(09.758)],12880, Hombre
+25, vulnerabilidad, alejandro, vane,31, Seguro, Correcto,4, Seguro, Avergonzado, Bromista, Desanimado, [2023-11-26 22:51(20.980)],11221, Hombre
+26, vulnerabilidad, alejandro, vane,28, Interesado, Correcto,5, Interesado, Bromista , Satisfecho, Cariñoso, [2023-11-26 22:51(40.836)],19855, Hombre
+27, vulnerabilidad, alejandro, vane,7, Inquieto, Correcto,4, Inquieto, Arrepentido, Amistoso, Desanimado, [2023-11-26 22:51(53.893)],13056, Hombre
+28, vulnerabilidad, alejandro, vane,27, Cauteloso, Correcto,4, Cauteloso, Bromista , Tranquilizador, Arrogante, [2023-11-26 22:52(07.868)],13974, Hombre
+29, vulnerabilidad, alejandro, vane,8, Abatido, Correcto,5, Abatido, Aliviado, Tímido, Emocionado, [2023-11-26 22:52(22.980)],15112, Hombre
+30, vulnerabilidad, alejandro, vane,18, Entretenido, Incorrecto,3, Decido, Entretenido, Horrorizado, aburrido, [2023-11-26 22:52(50.643)],27662, Hombre
+31, vulnerabilidad, alejandro, vane,13, Tímido, Incorrecto,4, Anticipando, Decidido, Amenazante, Tímido, [2023-11-26 22:53(14.555)],23911, Hombre
+32, vulnerabilidad, alejandro, vane,15, Contemplativo, Correcto,6, Contemplativo, Desconcertado, Alentador, Entretenido, [2023-11-26 22:53(33.889)],19333, Hombre
+33, vulnerabilidad, alejandro, vane,17, Dudoso, Correcto,6, Dudoso, Cariñoso, Juguetón, Horrorizado, [2023-11-26 22:53(44.113)],10224, Hombre
+34, vulnerabilidad, alejandro, vane,32, serio, Correcto,7, serio, Desconcertado, Avergonzado, Alarmado, [2023-11-26 22:53(58.476)],14362, Hombre
+35, vulnerabilidad, alejandro, vane,34, Desconcertado, Incorrecto,4, Desconfiado, Desconcertado, Horrorizado, Aterrorizado, [2023-11-26 22:54(32.381)],33904, Hombre
+36, vulnerabilidad, alejandro, vane,24, Irritado  , Incorrecto,5, Pensativo , Irritado  , Emocionado, Hostil, [2023-11-26 22:54(46.523)],14141, Hombre
