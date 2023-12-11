@@ -9,6 +9,7 @@
 	import Info from "./info.svelte";	
 	import Story from "./story.svelte";
 	import Test from "./test.svelte";
+	import Finish from "./finish.svelte";
 	import { onMount } from 'svelte';
   	import * as d3 from 'd3';
 	  let data = [];
@@ -47,7 +48,7 @@
 		server : "https://buho.dcc.uchile.cl/~inca-bct/log.php",
 		activeServer: false,
 		learner: "unnamed",
-		teacher: "unnamed",
+		teacher: "Yerko",
 		historia: 1,
 		AnswerEyes: []
 	}
@@ -65,7 +66,11 @@
 </script>
 
 <svelte:head>
+	<title>Test</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 </svelte:head>
 
 
@@ -84,6 +89,7 @@
 {:else if page == "info"} <Info></Info>
 {:else if page == "story"} <Story bind:params bind:page></Story>
 {:else if page == "test"} <Test bind:params bind:log bind:page></Test>
+{:else if page == "finish"} <Finish bind:log bind:params bind:page></Finish>
 {:else} <Home bind:params bind:page></Home>
 {/if}
 

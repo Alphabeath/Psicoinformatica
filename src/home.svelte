@@ -1,6 +1,7 @@
 <script>
   export let page = "home";
   export let params = {};
+  let nombre = "";
   let isOpen = true;
 
   function openModal() {
@@ -13,6 +14,8 @@
 
   function accept() {
     // Código para manejar la aceptación
+
+    params.learner = nombre;
     closeModal();
   }
 
@@ -29,8 +32,12 @@
   <div class="modal-content">
     <h2>Antes de comenzar</h2>
     <span class="close-button" on:click={closeModal}>X</span>
+    <a href="https://forms.office.com/r/1eWb4Wd54t"><button class="button form" on:click={decline}>Realizar Consentimiento</button></a>
     <p>Usted al presionar en "Acepto" confirma que ha realizado el cuestionario de <a href="https://forms.office.com/r/1eWb4Wd54t">Consentimiento informado</a> y está de acuerdo con los términos establecidos</p>
+    <input type="text" placeholder="Ingresa tu nombre" bind:value={nombre} />
     <button class="button" on:click={accept}>Acepto</button>
+    
+
   </div>
   </div>
 {/if}
@@ -92,11 +99,13 @@
   }
   a{
     color: #4747c5;
-    text-decoration: underline;
+    text-decoration: underline ;
+    font-weight: 600;
   }
 
   .button{
     background-color: rgb(6, 156, 6);
+
     border-radius: 0.25rem;
     color: white;
     text-decoration: solid;
@@ -106,6 +115,14 @@
     background-color: rgb(6, 156, 6);
     border-radius: 0.25rem;
     color: white;
+  }
+
+  .button.form{
+    background-color: rgb(45, 60, 192);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
   }
 </style>
 
